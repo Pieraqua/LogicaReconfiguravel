@@ -1,0 +1,153 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/simulation/modelsim
+T_opt
+!s110 1661902685
+VTnH4QB2<eHPMUQ53fYM6Y2
+04 10 5 work cont_57_tb teste 1
+=1-7c10c9a1f904-630e9f5c-1b8-2f34
+!s124 OEM10U4 
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;2021.2;73
+Econt_4
+Z1 w1661824567
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 4
+R0
+Z5 8D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_4.vhd
+Z6 FD:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_4.vhd
+l0
+L5 1
+V1K6bZlmPz9;1QY]L2f[L^0
+!s100 @2PR9m_DQ`bTJ[Jzb@hQK2
+Z7 OL;C;2021.2;73
+32
+Z8 !s110 1661902676
+!i10b 1
+Z9 !s108 1661902676.000000
+Z10 !s90 -reportprogress|300|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_4.vhd|
+Z11 !s107 D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_4.vhd|
+!i113 0
+Z12 o-work work
+Z13 tExplicit 1 CvgOpt 0
+Ax
+R2
+R3
+R4
+Z14 DEx4 work 6 cont_4 0 22 1K6bZlmPz9;1QY]L2f[L^0
+!i122 4
+l16
+L14 23
+V:LFdD>TTBUf3RBl4S<9Fc2
+!s100 ?@1Yjfc=gAe3X638eViAB0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Econt_57
+Z15 w1661902526
+R2
+R3
+R4
+!i122 5
+R0
+Z16 8D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd
+Z17 FD:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd
+l0
+L5 1
+V0X3O9VIHGgd4@AUfBzAZf3
+!s100 mC0ifHZFAG=`I:<OIQZS41
+R7
+32
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd|
+Z19 !s107 D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd|
+!i113 0
+R12
+R13
+Ax
+R14
+R2
+R3
+R4
+Z20 DEx4 work 7 cont_57 0 22 0X3O9VIHGgd4@AUfBzAZf3
+!i122 5
+l22
+L15 35
+VV[HP2JJMHbEIPOel_N7?:2
+!s100 F^G?P04Sfmh77;A`k6Fee1
+R7
+32
+R8
+!i10b 1
+R9
+R18
+R19
+!i113 0
+R12
+R13
+Econt_57_tb
+Z21 w1661902629
+R2
+R3
+R4
+!i122 6
+R0
+Z22 8D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57_tb.vhd
+Z23 FD:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57_tb.vhd
+l0
+L5 1
+VYi:BKJ86J4T<1Lk:QFLR83
+!s100 4oKfIFj7IXl8oolfEfKQX0
+R7
+32
+Z24 !s110 1661902677
+!i10b 1
+R9
+Z25 !s90 -reportprogress|300|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57_tb.vhd|
+Z26 !s107 D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57_tb.vhd|
+!i113 0
+R12
+R13
+Ateste
+R20
+R2
+R3
+R4
+DEx4 work 10 cont_57_tb 0 22 Yi:BKJ86J4T<1Lk:QFLR83
+!i122 6
+l29
+L9 41
+VX9TXM_bGWMR33YObE`5WS3
+!s100 5aX64;Ji0MX^VID6al8H[0
+R7
+32
+R24
+!i10b 1
+R9
+R25
+R26
+!i113 0
+R12
+R13

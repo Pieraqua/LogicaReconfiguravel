@@ -1,0 +1,171 @@
+# Reading pref.tcl
+# //  Questa Intel Starter FPGA Edition-64
+# //  Version 2021.2 win64 Apr 14 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# do cont_57_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Questa Intel Starter FPGA Edition-64 vmap 2021.2 Lib Mapping Utility 2021.04 Apr 14 2021
+# vmap work rtl_work 
+# Copying D:/ProgramFiles/IntelFPGA_lite/21.1/questa_fse/win64/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 20:36:41 on Aug 30,2022
+# vcom -reportprogress 300 -93 -work work D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity cont_57
+# -- Compiling architecture X of cont_57
+# ** Error: (vcom-11) Could not find work.cont_4.
+# ** Error (suppressible): D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd(27): (vcom-1195) Cannot find expanded name "work.cont_4".
+# ** Error: D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd(27): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.cont_4.
+# ** Error (suppressible): D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd(35): (vcom-1195) Cannot find expanded name "work.cont_4".
+# ** Error: D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd(35): Unknown expanded name.
+# ** Note: D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd(49): VHDL Compiler exiting
+# End time: 20:36:41 on Aug 30,2022, Elapsed time: 0:00:00
+# Errors: 6, Warnings: 0
+# ** Error: D:/ProgramFiles/IntelFPGA_lite/21.1/questa_fse/win64/vcom failed.
+# Error in macro ./cont_57_run_msim_rtl_vhdl.do line 8
+# D:/ProgramFiles/IntelFPGA_lite/21.1/questa_fse/win64/vcom failed.
+#     while executing
+# "vcom -93 -work work {D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd}"
+vcom -reportprogress 300 -work work D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57_tb.vhd
+# Questa Intel Starter FPGA Edition-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 20:36:54 on Aug 30,2022
+# vcom -reportprogress 300 -work work D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity cont_57_tb
+# -- Compiling architecture teste of cont_57_tb
+# -- Loading entity cont_57
+# ** Error (suppressible): D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57_tb.vhd(39): (vcom-1272) Length of formal "Q" is 8; length of actual is 4.
+# ** Note: D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57_tb.vhd(49): VHDL Compiler exiting
+# End time: 20:36:54 on Aug 30,2022, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57_tb.vhd
+# Questa Intel Starter FPGA Edition-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 20:37:22 on Aug 30,2022
+# vcom -reportprogress 300 -work work D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity cont_57_tb
+# -- Compiling architecture teste of cont_57_tb
+# -- Loading entity cont_57
+# End time: 20:37:22 on Aug 30,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.cont_57_tb
+# vsim work.cont_57_tb 
+# Start time: 20:37:27 on Aug 30,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: (vopt-11) Could not find work.cont_57(x).
+# Optimization failed
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=1, Warnings=0.
+# Error loading design
+# End time: 20:37:32 on Aug 30,2022, Elapsed time: 0:00:05
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd
+# Questa Intel Starter FPGA Edition-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 20:37:44 on Aug 30,2022
+# vcom -reportprogress 300 -work work D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity cont_57
+# -- Compiling architecture X of cont_57
+# ** Error: (vcom-11) Could not find work.cont_4.
+# ** Error (suppressible): D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd(27): (vcom-1195) Cannot find expanded name "work.cont_4".
+# ** Error: D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd(27): Unknown expanded name.
+# ** Error: (vcom-11) Could not find work.cont_4.
+# ** Error (suppressible): D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd(35): (vcom-1195) Cannot find expanded name "work.cont_4".
+# ** Error: D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd(35): Unknown expanded name.
+# ** Note: D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd(49): VHDL Compiler exiting
+# End time: 20:37:44 on Aug 30,2022, Elapsed time: 0:00:00
+# Errors: 6, Warnings: 0
+vcom -reportprogress 300 -work work D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_4.vhd
+# Questa Intel Starter FPGA Edition-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 20:37:56 on Aug 30,2022
+# vcom -reportprogress 300 -work work D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_4.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity cont_4
+# -- Compiling architecture X of cont_4
+# End time: 20:37:56 on Aug 30,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd
+# Questa Intel Starter FPGA Edition-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 20:37:56 on Aug 30,2022
+# vcom -reportprogress 300 -work work D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity cont_57
+# -- Compiling architecture X of cont_57
+# -- Loading entity cont_4
+# End time: 20:37:56 on Aug 30,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57_tb.vhd
+# Questa Intel Starter FPGA Edition-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 20:37:56 on Aug 30,2022
+# vcom -reportprogress 300 -work work D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_57/cont_57_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity cont_57_tb
+# -- Compiling architecture teste of cont_57_tb
+# -- Loading entity cont_57
+# End time: 20:37:57 on Aug 30,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vsim work.cont_57_tb
+# vsim work.cont_57_tb 
+# Start time: 20:38:03 on Aug 30,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.cont_57_tb(teste)#1
+add wave -position insertpoint  \
+sim:/cont_57_tb/clk \
+sim:/cont_57_tb/EN \
+sim:/cont_57_tb/clr \
+sim:/cont_57_tb/RST
+add wave -position insertpoint  \
+sim:/cont_57_tb/DUT/q_Out
+run 400ns
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ns  Iteration: 0  Instance: /cont_57_tb/DUT
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ns  Iteration: 0  Instance: /cont_57_tb/DUT
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ns  Iteration: 1  Instance: /cont_57_tb/DUT
+# Causality operation skipped due to absence of debug database file
+# End time: 20:49:09 on Aug 30,2022, Elapsed time: 0:11:06
+# Errors: 0, Warnings: 3
