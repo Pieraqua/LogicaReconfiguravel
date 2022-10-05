@@ -1,0 +1,112 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\SNios_new\software\teste1\obj\default\runtime\sim\mentor
+Econt8
+Z1 w1664979940
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dE:\SNios_new\software\teste1\obj\default\runtime\sim\mentor
+Z6 8E:/SNios_new/HSys/testbench/HSys_tb/simulation/submodules/cont8.vhd
+Z7 FE:/SNios_new/HSys/testbench/HSys_tb/simulation/submodules/cont8.vhd
+l0
+L5
+Vb9^Dn75I3m@5E7kbDB<Wd3
+Z8 OV;C;10.1d;51
+32
+Z9 !s108 1664980278.225000
+Z10 !s90 -reportprogress|300|E:/SNios_new/HSys/testbench/HSys_tb/simulation/submodules/cont8.vhd|-work|top_avalon_0|
+Z11 !s107 E:/SNios_new/HSys/testbench/HSys_tb/simulation/submodules/cont8.vhd|
+Z12 o-work top_avalon_0 -O0
+Z13 tExplicit 1
+!s100 J8a?]YjmdF]zeFN^82<<D1
+!i10b 1
+Ax
+R2
+R3
+R4
+DEx4 work 5 cont8 0 22 b9^Dn75I3m@5E7kbDB<Wd3
+l18
+L15
+V_]^QW_5AS;a_T7d]b^MW00
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 >4K@oc`PlG`Z_:U2RAWY<1
+!i10b 1
+Ereg32
+R1
+R3
+R4
+R5
+Z14 8E:/SNios_new/HSys/testbench/HSys_tb/simulation/submodules/reg32.vhd
+Z15 FE:/SNios_new/HSys/testbench/HSys_tb/simulation/submodules/reg32.vhd
+l0
+L3
+VN4>ca5c6nPdTKG[Uej]3J2
+!s100 kk@4:=b9]e1^l]aUjiNY70
+R8
+32
+!i10b 1
+Z16 !s108 1664980278.487000
+Z17 !s90 -reportprogress|300|E:/SNios_new/HSys/testbench/HSys_tb/simulation/submodules/reg32.vhd|-work|top_avalon_0|
+Z18 !s107 E:/SNios_new/HSys/testbench/HSys_tb/simulation/submodules/reg32.vhd|
+R12
+R13
+Abehavior
+R3
+R4
+DEx4 work 5 reg32 0 22 N4>ca5c6nPdTKG[Uej]3J2
+l20
+L10
+VD;0RS1JHHiXHeGM5>=BcS2
+!s100 l^`LTPeedZ1;nc[^V0C:E3
+R8
+32
+!i10b 1
+R16
+R17
+R18
+R12
+R13
+Etop_avalon
+R1
+R3
+R4
+R5
+Z19 8E:/SNios_new/HSys/testbench/HSys_tb/simulation/submodules/top_avalon.vhd
+Z20 FE:/SNios_new/HSys/testbench/HSys_tb/simulation/submodules/top_avalon.vhd
+l0
+L3
+Vaa4^EEzmkZSoVJSA[II[e3
+R8
+32
+Z21 !s108 1664980278.021000
+Z22 !s90 -reportprogress|300|E:/SNios_new/HSys/testbench/HSys_tb/simulation/submodules/top_avalon.vhd|-work|top_avalon_0|
+Z23 !s107 E:/SNios_new/HSys/testbench/HSys_tb/simulation/submodules/top_avalon.vhd|
+R12
+R13
+!s100 Idef^G`bf4lFchVbj4F<A0
+!i10b 1
+Ay
+R3
+R4
+DEx4 work 10 top_avalon 0 22 aa4^EEzmkZSoVJSA[II[e3
+l46
+L13
+Vol[W53dYSZSZl;<`4mV^X2
+R8
+32
+R21
+R22
+R23
+R12
+R13
+!s100 b>PA@dllWCV5gG2MVzA<m1
+!i10b 1

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.altera.sbtgui.launch.modelsim.Nios2ModelsimLaunchConfiguration">
+<stringAttribute key="elfFile" value="E:\SNios_new\software\teste0\teste0.elf"/>
+<stringAttribute key="modelSimPath" value="C:\altera\13.0\modelsim_ae\win32aloem"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="teste0.elf"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="teste0"/>
+<stringAttribute key="spdPath" value="E:\SNios_new\HSys_tb.spd"/>
+</launchConfiguration>

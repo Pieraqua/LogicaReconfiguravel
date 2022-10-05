@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.altera.sbtgui.launch.modelsim.Nios2ModelsimLaunchConfiguration">
+<stringAttribute key="elfFile" value="E:\SNios_new\software\teste0\teste0.elf"/>
+<stringAttribute key="elfUserFile" value="E:\SNios_new\software\teste0\teste0.elf"/>
+<stringAttribute key="modelSimPath" value="C:\altera\13.0\modelsim_ae\win32aloem"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_ID" value="com.altera.debug.cdi.gdb.plugin.Nios2GdbCdiDebugger"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_START_MODE" value="run"/>
+<booleanAttribute key="org.eclipse.cdt.launch.DEBUGGER_STOP_AT_MAIN" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="teste0.elf"/>
+<stringAttribute key="spdPath" value="E:\SNios_new\HSys_tb.spd"/>
+</launchConfiguration>

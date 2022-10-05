@@ -1,0 +1,50 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\SNios_new\software\teste1\obj\default\runtime\sim\mentor
+Ehsys_memory
+Z1 w1664979936
+Z2 DPx9 altera_mf 20 altera_mf_components 0 22 No]@D`cShSLI4UOb8Ijo62
+Z3 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z5 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z6 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z7 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z8 DPx6 altera 25 altera_europa_support_lib 0 22 l<USL:m_<eTTJ0m??:EdF1
+Z9 dE:\SNios_new\software\teste1\obj\default\runtime\sim\mentor
+Z10 8E:/SNios_new/HSys/testbench/HSys_tb/simulation/submodules/HSys_memory.vhd
+Z11 FE:/SNios_new/HSys/testbench/HSys_tb/simulation/submodules/HSys_memory.vhd
+l0
+L29
+VWN:?lIK0XegzSm12TXl`k3
+!s100 b9Un9V0R;nzjNd<hm>?>H0
+Z12 OV;C;10.1d;51
+32
+!i10b 1
+Z13 !s108 1664980279.499000
+Z14 !s90 -reportprogress|300|E:/SNios_new/HSys/testbench/HSys_tb/simulation/submodules/HSys_memory.vhd|-work|memory|
+Z15 !s107 E:/SNios_new/HSys/testbench/HSys_tb/simulation/submodules/HSys_memory.vhd|
+Z16 o-work memory -O0
+Z17 tExplicit 1
+Aeuropa
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 11 hsys_memory 0 22 WN:?lIK0XegzSm12TXl`k3
+l79
+L50
+VD8cFQRVaT<;L6FiI[4VRf0
+!s100 jKLNHPmfGje@mHF<LTC<L3
+R12
+32
+!i10b 1
+R13
+R14
+R15
+R16
+R17
