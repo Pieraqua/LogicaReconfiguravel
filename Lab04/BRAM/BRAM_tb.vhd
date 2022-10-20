@@ -7,7 +7,7 @@ end entity;
 
 Architecture X of BRAM_tb is
 
-component BRAM is
+component USERHW_NIOS is
    PORT(RST       : in  std_logic;        
         CLK       : in  std_logic;        
         READDATA  : out std_logic_vector(7 downto 0);
