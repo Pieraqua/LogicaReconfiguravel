@@ -1,0 +1,30 @@
+-- FlowControl_tb.vhd
+
+-- created by   :   Paulo Sergio Avila Junior
+-- date         :   21-September-2022
+
+-- Functionality:
+  -- Explora o controle de fluxo em hardware entre BRAMs e FIFOs
+
+-- ports:
+    -- we   : write enable
+    -- addr : input port for getting address
+    -- din : input data to be stored in RAM
+    -- data : output data read from RAM
+    -- addr_width : total number of elements to store (put exact number)
+    -- addr_bits  : bits requires to store elements specified by addr_width
+    -- data_width : number of bits in each elements
+	 
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+
+entity FlowControl_tb is
+begin
+end FlowControl;
+
+architecture x of FlowControl_tb is
+begin
+
+end architecture;

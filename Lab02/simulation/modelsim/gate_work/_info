@@ -1,0 +1,225 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Docs/Universidade/LogicaReconfiguravel/Lab02/simulation/modelsim
+Ehard_block
+Z1 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z2 DPx10 cycloneive 20 cycloneive_atom_pack 0 22 I=he6>LOClIEY=Wi_;aT11
+Z3 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 DPx10 cycloneive 21 cycloneive_components 0 22 zb:LUV7fa?T?QSmndl5]T1
+32
+Z7 !s110 1663321274
+!i10b 1
+Z8 w1663319026
+R0
+Z9 8D:/Docs/Universidade/LogicaReconfiguravel/Lab02/Somadordeum_6_1200mv_0c_slow.vho
+Z10 FD:/Docs/Universidade/LogicaReconfiguravel/Lab02/Somadordeum_6_1200mv_0c_slow.vho
+l0
+L35
+VB]0;STalBkCB1_B4BXQDW2
+!s100 >mXi5[`cD`bFC`UBKA<om3
+Z11 OV;C;10.5b;63
+Z12 !s108 1663321274.000000
+Z13 !s90 -reportprogress|300|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/Lab02/Somadordeum.vhd|D:/Docs/Universidade/LogicaReconfiguravel/Lab02/Somadordeum_6_1200mv_0c_slow.vho|D:/Docs/Universidade/LogicaReconfiguravel/Lab02/Somadordeum_tb.vhd|
+Z14 !s107 D:/Docs/Universidade/LogicaReconfiguravel/Lab02/Somadordeum_tb.vhd|D:/Docs/Universidade/LogicaReconfiguravel/Lab02/Somadordeum_6_1200mv_0c_slow.vho|D:/Docs/Universidade/LogicaReconfiguravel/Lab02/Somadordeum.vhd|
+!i113 1
+Z15 o-work work
+Z16 tExplicit 1 CvgOpt 0
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+DEx4 work 10 hard_block 0 22 B]0;STalBkCB1_B4BXQDW2
+32
+R7
+!i10b 1
+l65
+L51
+Via>5o7W??azG@W@@eFOTF0
+!s100 [5;Wd8QGQ>@2NGoJ1I]Y43
+R11
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Esomadordeum
+R2
+R6
+R1
+Z17 DPx6 altera 11 dffeas_pack 0 22 ZQ]VGMHaJ[GMZ@f@b6[AU2
+R3
+R4
+R5
+Z18 DPx6 altera 28 altera_primitives_components 0 22 18Ti78zfmJ`i`agjOM[]Q2
+32
+R7
+!i10b 1
+R8
+R0
+R9
+R10
+l0
+L80
+V;lV1]02>H66R3>[WDejIN3
+!s100 [O;N0@aj_K;ZUWNkfY?1>1
+R11
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Astructure
+R2
+R6
+R1
+R17
+R3
+R4
+R5
+R18
+Z19 DEx4 work 11 somadordeum 0 22 ;lV1]02>H66R3>[WDejIN3
+32
+R7
+!i10b 1
+l136
+L99
+V4?H9n?a1i1W4Vh9`BXn=<3
+!s100 0QaRQ6SWEm80oLZk:b8aQ0
+R11
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Asign
+R2
+R6
+R1
+R17
+R3
+R4
+R5
+R18
+R19
+32
+R7
+!i10b 1
+Z20 w1663321041
+Z21 8D:/Docs/Universidade/LogicaReconfiguravel/Lab02/Somadordeum.vhd
+Z22 FD:/Docs/Universidade/LogicaReconfiguravel/Lab02/Somadordeum.vhd
+l65
+L64
+V9WU99CY^kBZkLYP=GD9L93
+!s100 dX17SdI9786gnBWhS5b0P2
+R11
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Awhil
+R20
+Z23 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R4
+R5
+Z24 DEx4 work 11 somadordeum 0 22 OebRUW@ehUDdKNzIa:RD]0
+R21
+R22
+l54
+L36
+V^<lDeUI6c`Oc4GD>4n6[60
+!s100 fOf=HJM0n4_Y@5@TJ_5m^3
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Ax
+R20
+R23
+R4
+R5
+R24
+R21
+R22
+l27
+L12
+V3aE>E8@Ck>4oJT?alj?fR2
+!s100 3ND=^N43kUJk[KQZD0gka2
+R11
+32
+R7
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Esomadordeum_tb
+Z25 w1663320829
+R23
+R4
+R5
+R0
+Z26 8D:/Docs/Universidade/LogicaReconfiguravel/Lab02/Somadordeum_tb.vhd
+Z27 FD:/Docs/Universidade/LogicaReconfiguravel/Lab02/Somadordeum_tb.vhd
+l0
+L5
+VF7ORmzM0NfZib^U6XIgP;3
+!s100 7lTA3EGJV9F@iAEIl<RVJ0
+R11
+32
+R7
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Ateste
+R2
+R6
+R1
+R17
+R3
+R18
+R19
+R23
+R4
+R5
+DEx4 work 14 somadordeum_tb 0 22 F7ORmzM0NfZib^U6XIgP;3
+l26
+L9
+VgcG@FV]5IBo:oVRkAhR5i1
+!s100 jOel2gH0TbB2>=0<XJJjh2
+R11
+32
+R7
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16

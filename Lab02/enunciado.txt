@@ -1,0 +1,14 @@
+*** Criar 2 contadores de bits '1' em uma palavra de 4 bits,  na mesma entidade, um com variáveis outro com sinais ***. Estes contadores devem, a cada ciclo de clock avaliar 1 bit do sinal de 4 bits.
+
+EXERCÍCIO: 
+Utilizar a)FOR b)WHILE c)SIGNALS para contar o número de '1's em palavras de 4 bits que são fornecidas a cada ciclo de clock.
+
+*** A CADA SINAL DE CLOCK PEGAR A ENTRADA E CONTAR A OCORRÊNCIA DE BITS 1 USANDO FOR, WHILE (EM UMA MESMA ENTIDADE) E SIGNALS(CASE/WHEN) ***
+PROBLEMA DE USAR SIGNALS PARA CONTAR, POIS, SÓ DA PRA FAZER 1 ATRIBUIÇÃO POR CICLO.
+CRIAR 4 SIGNALS E NO FINAL DO PROCESSO SOMAR OS SINAIS (LOOK UP TABLE).
+
+Entregar
+projeto no quartus 
+simulação Modelsim FUNCIONAL E GATE LEVEL com snapshots de formas de onda relevantes
+Evidências de execução na placa (fotos, vídeos, signaltap)
+Comparar, para o exercício, a frequência máxima obtida na simulação gate_level (com alguns cálculos adicionais) com a fornecida pelo Quartus.

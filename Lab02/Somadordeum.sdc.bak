@@ -1,0 +1,2 @@
+create_clock -period 488.281 -name clk clk
+create_clock -period 1000000000 -name clk_divider:clk_module|signal_level clk_divider:clk_module|signal_level

@@ -1,0 +1,109 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11e vcom 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_4/simulation/modelsim
+T_opt
+!s110 1661823490
+VjSWmcQK;X^JE`5QeDLD3O3
+04 9 13 work cont_4_tb nome_qualquer 1
+=1-7c10c9a1f904-630d6a01-d4-26f0
+!s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;2021.2;73
+Econt_4
+Z1 w1661821111
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z5 8D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_4/cont_4.vhd
+Z6 FD:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_4/cont_4.vhd
+l0
+L5 1
+V[oJI4K_9MznmdhDj_AU]j0
+!s100 @2PR9m_DQ`bTJ[Jzb@hQK2
+Z7 OL;C;2021.2;73
+31
+Z8 !s110 1661823470
+!i10b 1
+Z9 !s108 1661823470.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_4/cont_4.vhd|
+Z11 !s107 D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_4/cont_4.vhd|
+!i113 0
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Ax
+R2
+R3
+R4
+Z14 DEx4 work 6 cont_4 0 22 [oJI4K_9MznmdhDj_AU]j0
+!i122 0
+l16
+L14 23
+VO=O<]c8LNeNomTMbM84`[1
+!s100 ?@1Yjfc=gAe3X638eViAB0
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Econt_4_tb
+Z15 w1661823412
+R2
+R3
+R4
+!i122 1
+R0
+Z16 8D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_4/cont_4_tb.vhd
+Z17 FD:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_4/cont_4_tb.vhd
+l0
+L5 1
+V<@>b[zc:Q[E8=5d[n3IML0
+!s100 9G?3bSG]YzjSGTReicY5f1
+R7
+32
+Z18 !s110 1661823484
+!i10b 1
+Z19 !s108 1661823484.000000
+Z20 !s90 -reportprogress|300|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_4/cont_4_tb.vhd|
+Z21 !s107 D:/Docs/Universidade/LogicaReconfiguravel/Lab01/cont_4/cont_4_tb.vhd|
+!i113 0
+Z22 o-work work
+R13
+Anome_qualquer
+R14
+R2
+R3
+R4
+DEx4 work 9 cont_4_tb 0 22 <@>b[zc:Q[E8=5d[n3IML0
+!i122 1
+l29
+L9 41
+VD5hGnKVEiAkQ>9;GAKbgd1
+!s100 k_fe11N=FJnT>8azG=VDW2
+R7
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 0
+R22
+R13

@@ -1,0 +1,281 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Docs/Universidade/LogicaReconfiguravel/Lab03/simulation/modelsim
+Econt_generic
+Z1 w1663806943
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8D:/Docs/Universidade/LogicaReconfiguravel/Lab03/cont_generic.vhd
+Z6 FD:/Docs/Universidade/LogicaReconfiguravel/Lab03/cont_generic.vhd
+l0
+L5
+VG;i@hIC`BJJ_eT;38jmB]3
+!s100 ?7Rg3V3Q@b[E0bf>XIYhG1
+Z7 OV;C;10.5b;63
+31
+Z8 !s110 1663812355
+!i10b 1
+Z9 !s108 1663812355.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/Lab03/cont_generic.vhd|
+Z11 !s107 D:/Docs/Universidade/LogicaReconfiguravel/Lab03/cont_generic.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Ax
+R2
+R3
+R4
+Z14 DEx4 work 12 cont_generic 0 22 G;i@hIC`BJJ_eT;38jmB]3
+l19
+L17
+VGOh0zODQid[7;66;:3zec2
+!s100 UdokY;i94KQe@[^;05dC51
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eflowcontrol
+Z15 w1663810812
+R2
+R3
+R4
+R0
+Z16 8D:/Docs/Universidade/LogicaReconfiguravel/Lab03/FlowControl.vhd
+Z17 FD:/Docs/Universidade/LogicaReconfiguravel/Lab03/FlowControl.vhd
+l0
+L23
+V1YFkR80I06ci[bRazfKcn3
+!s100 KaTSdO8L_`cIbLh]^C_351
+R7
+31
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-93|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/Lab03/FlowControl.vhd|
+Z19 !s107 D:/Docs/Universidade/LogicaReconfiguravel/Lab03/FlowControl.vhd|
+!i113 1
+R12
+R13
+Aprimeira_estrategia
+R14
+Z20 DEx4 work 12 statemachine 0 22 HhUdI=4j@WWdokB@59V_i0
+Z21 DEx4 work 15 single_port_ram 0 22 c9O`NI^KamiNS_:V>zU_j1
+Z22 DEx4 work 27 module_fifo_regs_with_flags 0 22 5L>UJ3]LPW]98nooTV4_l2
+R2
+R3
+R4
+Z23 DEx4 work 11 flowcontrol 0 22 1YFkR80I06ci[bRazfKcn3
+l56
+L37
+V3D7HUi59aDZG9Fg?HoY1F2
+!s100 nBLh4^01O1VnBL12fihPY3
+R7
+31
+R8
+!i10b 1
+R9
+R18
+R19
+!i113 1
+R12
+R13
+Eflowcontrol_tb
+Z24 w1663810290
+R2
+R3
+R4
+R0
+Z25 8D:/Docs/Universidade/LogicaReconfiguravel/Lab03/FlowControl_tb.vhd
+Z26 FD:/Docs/Universidade/LogicaReconfiguravel/Lab03/FlowControl_tb.vhd
+l0
+L23
+VKZiK20;MAo:`HFd118PD<1
+!s100 NZ44Cl_X6M><N;^GfHKoO2
+R7
+32
+Z27 !s110 1663812392
+!i10b 1
+Z28 !s108 1663812392.000000
+Z29 !s90 -reportprogress|300|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/Lab03/FlowControl_tb.vhd|
+Z30 !s107 D:/Docs/Universidade/LogicaReconfiguravel/Lab03/FlowControl_tb.vhd|
+!i113 1
+Z31 o-work work
+R13
+Ax
+R14
+R23
+R2
+R3
+R4
+DEx4 work 14 flowcontrol_tb 0 22 KZiK20;MAo:`HFd118PD<1
+l42
+L27
+VA7F:6gY`QAm2^Pfj0=fmQ2
+!s100 o5HUTJ1]6KT]E8bJdaID^3
+R7
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R31
+R13
+Emodule_fifo_regs_with_flags
+Z32 w1663811781
+R2
+R3
+R4
+R0
+Z33 8D:/Docs/Universidade/LogicaReconfiguravel/Lab03/FIFO.vhd
+Z34 FD:/Docs/Universidade/LogicaReconfiguravel/Lab03/FIFO.vhd
+l0
+L26
+V5L>UJ3]LPW]98nooTV4_l2
+!s100 F[fCSK^2G:S;@UQ;0lAU`1
+R7
+31
+Z35 !s110 1663812354
+!i10b 1
+Z36 !s108 1663812354.000000
+Z37 !s90 -reportprogress|300|-93|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/Lab03/FIFO.vhd|
+Z38 !s107 D:/Docs/Universidade/LogicaReconfiguravel/Lab03/FIFO.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+R22
+l68
+L50
+VZJ0j61T2?S;>RJKZNWmJi3
+!s100 L@NVQLz<R5mRDB9YGbR?i1
+R7
+31
+R35
+!i10b 1
+R36
+R37
+R38
+!i113 1
+R12
+R13
+Esingle_port_ram
+Z39 w1663786803
+R2
+R3
+R4
+R0
+Z40 8D:/Docs/Universidade/LogicaReconfiguravel/Lab03/single_port_RAM.vhd
+Z41 FD:/Docs/Universidade/LogicaReconfiguravel/Lab03/single_port_RAM.vhd
+l0
+L22
+Vc9O`NI^KamiNS_:V>zU_j1
+!s100 lJ[fZP4Lo7P=WdC6CG=PT3
+R7
+31
+R35
+!i10b 1
+R36
+Z42 !s90 -reportprogress|300|-93|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/Lab03/single_port_RAM.vhd|
+Z43 !s107 D:/Docs/Universidade/LogicaReconfiguravel/Lab03/single_port_RAM.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+R21
+l40
+L37
+V7VIh^=X`=2;=D7gNjTz[G2
+!s100 m<]HX_<Y7`]TYn=]VC0JC3
+R7
+31
+R35
+!i10b 1
+R36
+R42
+R43
+!i113 1
+R12
+R13
+Estatemachine
+Z44 w1663810928
+R2
+R3
+R4
+R0
+Z45 8D:/Docs/Universidade/LogicaReconfiguravel/Lab03/statemachine.vhd
+Z46 FD:/Docs/Universidade/LogicaReconfiguravel/Lab03/statemachine.vhd
+l0
+L3
+VHhUdI=4j@WWdokB@59V_i0
+!s100 dd7dJUZ;Sd4JJ4kAl9SSh2
+R7
+31
+R8
+!i10b 1
+R9
+Z47 !s90 -reportprogress|300|-93|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/Lab03/statemachine.vhd|
+Z48 !s107 D:/Docs/Universidade/LogicaReconfiguravel/Lab03/statemachine.vhd|
+!i113 1
+R12
+R13
+Ard
+R2
+R3
+R4
+R20
+l46
+L44
+VMJk_BTST^HW_FaHg?O`Q<1
+!s100 ;PoC2@SDJh^nZTNA[iOZD1
+R7
+31
+R8
+!i10b 1
+R9
+R47
+R48
+!i113 1
+R12
+R13
+Awr
+R2
+R3
+R4
+R20
+l14
+L11
+V>_YKBjfK::3009^Y5zhMU3
+!s100 23eJ3XkE]EjnFC@h7`FIf1
+R7
+31
+R8
+!i10b 1
+R9
+R47
+R48
+!i113 1
+R12
+R13

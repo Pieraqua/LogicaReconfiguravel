@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Sep 21 20:32:34 2022
+Quartus Prime Version : 21.1.1 Build 850 06/23/2022 SJ Lite Edition
+Revision Name : FlowControl
+Top-level Entity Name : FlowControl
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 20,623 / 22,320 ( 92 % )
+    Total combinational functions : 13,156 / 22,320 ( 59 % )
+    Dedicated logic registers : 16,474 / 22,320 ( 74 % )
+Total registers : 16474
+Total pins : 63 / 154 ( 41 % )
+Total virtual pins : 0
+Total memory bits : 4,096 / 608,256 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

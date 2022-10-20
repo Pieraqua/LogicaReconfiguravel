@@ -1,0 +1,21 @@
+Code:
+function count_ones(s : std_logic_vector) return integer is
+  variable temp : natural := 0;
+begin
+  for i in s'range loop
+    if s(i) = '1' then temp := temp + 1; 
+    end if;
+  end loop;
+  
+  return temp;
+end function count_ones;
+
+now you just need to call this function in a clocked process:
+
+Code:
+process(clk)
+begin
+  if rising_edge(clk) then
+    n_bits <= count_ones(s);
+  end if;
+end process;
