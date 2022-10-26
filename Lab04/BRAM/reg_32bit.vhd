@@ -26,3 +26,19 @@ BEGIN
       end if;
    END PROCESS;
 END x;
+
+ARCHITECTURE selfclear OF REG_32BIT IS
+BEGIN
+   PROCESS(RST, CLK)
+   BEGIN
+      IF RST = '1' THEN
+         READDATA <= x"00000000";
+      elsif CLK'EVENT AND CLK = '1' then
+         if WRITE_EN = '1' then
+            READDATA <= WRITEDATA;
+         else 
+            READDATA <= x"00000000";
+         end if;	
+      end if;
+   END PROCESS;
+END x;

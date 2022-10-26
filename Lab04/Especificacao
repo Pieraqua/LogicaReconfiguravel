@@ -1,0 +1,11 @@
+_ Modificar o TB para que ele continuamente escreva o nome completo de cada aluno (sem acentuação) em ASCII. Os nomes parciais devem ser separados por espaços e entre os nomes completos deve haver uma sequencia de 
+
+"espaço +++--+++ espaço" que dá um total de 10 caracteres.
+
+Exemplo :    '  'JOAO' 'DA' 'SILVA'  ' +++--+++' ' '  'JOAO' 'DA' 'SILVA'  ' +++--+++' ' ....
+
+_ para verificar o funcionamento, a string acima deve aparecer no sinal READDATA
+
+_ O TB atual faz escritas e leituras intercaladas. Deve ser modificado para fazer 1024 escritas e depois 1024 leituras.
+
+Sugestão: utilizar o TB como está para verificações prévias.  Quando estas verificações  estiverem OK, completar as mudanças no TB

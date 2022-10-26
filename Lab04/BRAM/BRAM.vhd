@@ -34,7 +34,7 @@ Begin
 VDD <= '1';
 GND <= '0';
 
-REG32_0 : REG_32BIT
+REG32_0 : REG_32BIT(x)
 	port map (
 		RST 	   => RST,
 		CLK 	   => CLK,
@@ -43,7 +43,7 @@ REG32_0 : REG_32BIT
 		WRITE_EN => WE_REG0
 );
 
-REG32_1 : REG_32BIT
+REG32_1 : REG_32BIT(x)
 	port map (
 		RST 	   => RST,
 		CLK 	   => CLK,
@@ -52,7 +52,7 @@ REG32_1 : REG_32BIT
 		WRITE_EN => WE_REG1
 );
 
-REG32_2 : REG_32BIT
+REG32_2 : REG_32BIT(selfclear)
 	port map (
 		RST 	   => RST,
 		CLK 	   => CLK,
