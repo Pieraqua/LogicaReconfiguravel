@@ -2,36 +2,33 @@ Library IEEE;
 use IEEE.std_logic_1164.all;
 use IEEE.numeric_std.all;
 
-Entity BRAM_tb is
+Entity top_avalon_tb is
 end entity;
 
-Architecture X of BRAM_tb is
+Architecture X of top_avalon_tb is
 
 component USERHW_NIOS is
-   PORT(RST       : in  std_logic;        
-        CLK       : in  std_logic;        
-        READDATA  : out std_logic_vector(31 downto 0);
-        WRITEDATA : in  std_logic_vector(31 downto 0);
-        WRITE_EN     : in std_logic;           
-        READ_EN     : in std_logic;            
-        CS        : in std_logic;           
-        ADD       : in std_logic_vector (1 downto 0)
+   PORT(RST       : in  std_logic;                    -- RST global
+        CLK       : in  std_logic;                    -- CLK do NIOS
+        READDATA  : out std_logic_vector(31 downto 0);-- Saida da BRAM
+        WRITEDATA : in  std_logic_vector(31 downto 0);-- Dado a ser escrito no registrador escolhido
+        WRITE_EN     : in std_logic;                  -- WRITE_EN do NIOS
+        READ_EN     : in std_logic;                   -- READ_EN do NIOS
+        CS        : in std_logic;                     -- CS do NIOS
+        ADD       : in std_logic_vector (1 downto 0)  -- Endereco do registrador interno
 		  );
 end component;
 signal GND, VCC: std_logic; 
-signal rst, clk: std_logic;
-signal READDATA: std_logic_vector(31 downto 0);
-SIGNAL WRITEDATA : std_logic_vector(31 downto 0);
+signal rst, clk, resetn: std_logic;
+signal READDATA, WRITEDATA : std_logic_vector(31 downto 0);
 signal ADD : std_logic_vector(1 downto 0);
-TYPE state_type is (idle_st0,idle_st1, write_st0, write_st1, read_st0, read_st1);
+TYPE state_type is (write_st0, write_st1, write_st2, read_st0, read_st1, increment_st, idle_st);
 signal state : state_type; 
-signal INTERVAL_0, INTERVAL_1, counter, address : integer;
-signal CS, WR_EN, RD_EN    : std_logic; 
+signal CS, WR_EN, RD_EN    : std_logic;
+
+signal counter, endereco : integer;
 
 begin  
-
-INTERVAL_0 <= 10;
-INTERVAL_1 <= 15;
 
 GND <= '0';
 VCC <= '1';
@@ -52,102 +49,101 @@ begin
 	wait for 10 ns;
 end process;
 
+resetn <= not rst;
+
 DUT:USERHW_NIOS
     port map
-	   (RST       => rst      ,
-  	    CLK       => clk      ,
-        READDATA  => READDATA , 
-        WRITEDATA => WRITEDATA, 
-        WRITE_EN     => WR_EN    , 
-        READ_EN     => RD_EN    , 
-        CS        => CS       , 
-        ADD       => ADD       
+	   (CLK      	=> clk      ,
+  	    RST    	 	=> rst   	,
+        CS			=> CS		, 
+        WRITEDATA  	=> WRITEDATA, 
+        READDATA   	=> READDATA , 
+        WRITE_EN   	=> WR_EN    , 
+        READ_EN    	=> RD_EN    , 
+        ADD        	=> ADD       
 		  );
+		  
 
-gera_data_we_rd_add_cs : process (RST, CLK)
+		  
+teste_1024escritas_1024leituras : process(RST, CLK)
 begin
 	If RST = '1' then
---	   READDATA   <= (others => '0');
---	   WRITEDATA  <= (others => '0');
---	   WR_EN      <= '0';
---	   RD_EN      <= '0'; 
---	   CS         <= '0';
---	   ADD        <= (others => '0');
-       counter    <= 0;		
-	   state      <= idle_st0;
+      counter    <= 1;		
+	   state      <= idle_st;
 	Elsif CLK' event and CLK = '1' then
-		counter <= counter + 1;
 		case state is
-			when idle_st0 => 
-				if counter = INTERVAL_0 then 
-					state <= write_st0;
-					counter <= 0;
-				end if;	
-			when write_st0 => 
+			when idle_st => 
+				counter    <= 1;	
+				endereco <= 0;
+				state <= write_st0;
+			when write_st0 =>
 				state <= write_st1;
-				counter <= 0;
-			when write_st1 => 
-				state <= idle_st1;
-				counter <= 0;
-			when idle_st1 => 
-				if counter = INTERVAL_1 then 
+			when write_st1 =>
+				state <= write_st2;
+			when write_st2 =>
+				if counter = 35 then 
+					counter <= 1;
+				else
+					counter <= counter + 1;
+				end if;
+			
+				if endereco = 1023 then
 					state <= read_st0;
-					counter <= 0;
-				end if;	
-			when read_st0 => 
+					endereco <= 0;
+				else
+					state <= write_st0;
+					endereco <= endereco + 1;
+				end if;
+				
+			when read_st0 =>
 				state <= read_st1;
-				counter <= 0;
-			when read_st1 => 
-				--if counter = INTERVAL_1 then 
-					state <= idle_st0;
-					counter <= 0;
-				--end if;	
-				address  <= address + 1;
-        end case;    	
+			when read_st1 =>
+				if endereco = 1023 then
+					state <= write_st0;
+					endereco <= 0;
+				else
+					state <= read_st0;
+					endereco <= endereco + 1;
+				end if;
+			when increment_st =>
+	  end case;    	
 	end if;
+end process;
 
-End process;
 
 process(state)
+	variable nome : string(1 to 35);
 begin
 		case state is
-			when idle_st0 => 
---				READDATA   <= (others => '0');
-				WRITEDATA  <= (others => '0');
-				WR_EN      <= '0';
-				RD_EN      <= '0'; 
-				CS         <= '0';
-				ADD        <= (others => '0');
-			when write_st0 => 
-				WRITEDATA  <= x"00000055";
-				WR_EN      <= '1';
-				RD_EN      <= '0'; 
-				CS         <= '1';
-				ADD        <= std_logic_vector(to_unsigned(address, ADD'length));
-			when write_st1 => 
-				WRITEDATA  <= x"00000055";
-				WR_EN      <= '0';
-				RD_EN      <= '0'; 
-				CS         <= '0';
-				ADD        <= std_logic_vector(to_unsigned(address, ADD'length));
-			when idle_st1 => 
-				WRITEDATA  <= (others => '0');
-				WR_EN      <= '0';
-				RD_EN      <= '0'; 
-				CS         <= '0';
-				ADD        <= (others => '0');
-			when read_st0 => 
-				WRITEDATA  <= (others => '0');
-				WR_EN      <= '0';
-				RD_EN      <= '1'; 
-				CS         <= '1';
-				ADD        <= std_logic_vector(to_unsigned(address, ADD'length));
-			when read_st1 => 
-				WRITEDATA  <= (others => '0');
-				WR_EN      <= '0';
-				RD_EN      <= '0'; 
-				CS         <= '0';
-				ADD        <= std_logic_vector(to_unsigned(address, ADD'length));
+			when idle_st => 
+				nome 			:= "+++--+++ PAULO SERGIO AVILA JUNIOR ";
+				WR_EN 		<= '0';
+				RD_EN 		<= '0';
+				CS 			<= '1';
+				ADD 			<= (OTHERS => '0');
+				WRITEDATA 	<= (OTHERS => '0');
+			when write_st0 =>
+				WRITEDATA 	<= std_logic_vector(to_signed(endereco, 32));
+				WR_EN 		<= '1';
+				ADD 			<= "00";
+			when write_st1 =>
+				WRITEDATA 	<= std_logic_vector(to_signed(character'pos(nome(counter)), 32));
+				WR_EN 		<= '1';
+				ADD 			<= "01";
+			when write_st2 =>
+				WRITEDATA 	<= x"0000000" & "0001";
+				WR_EN 		<= '1';
+				ADD 			<= "10";
+			when read_st1 =>
+				WRITEDATA 	<= std_logic_vector(to_signed(endereco, 32));
+				WR_EN 		<= '1';
+				ADD 			<= "00";
+			when read_st0 =>
+				WRITEDATA 	<= x"0000000" & "0010";
+				WR_EN 		<= '1';
+				ADD 			<= "10";
+				RD_EN 		<= '1';
+			when increment_st =>
         end case;    	
 end process;	
 

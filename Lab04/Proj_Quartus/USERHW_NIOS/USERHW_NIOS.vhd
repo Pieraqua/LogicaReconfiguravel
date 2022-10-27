@@ -21,7 +21,7 @@ signal Q_BRAM : std_logic_vector(7 downto 0);  -- Saida da BRAM
 signal WE_BRAM, RE_BRAM, WE_REG0, WE_REG1, WE_REG2 : std_logic; -- WE da BRAM e regs e RE da BRAM
 signal Q_REG0, Q_REG1, Q_REG2 : std_logic_vector(31 downto 0); -- Saida dos registradores
 
-COMPONENT REG_32BIT
+COMPONENT reg_32bit IS
 PORT(    RST       : in  std_logic;        
          CLK       : in  std_logic;        
          READDATA  : out std_logic_vector(31 downto 0);
@@ -30,7 +30,7 @@ PORT(    RST       : in  std_logic;
 		   );
 END COMPONENT;
 
-COMPONENT RAM
+COMPONENT RAM IS
 PORT(		address		: IN STD_LOGIC_VECTOR (15 DOWNTO 0);
 			clock		: IN STD_LOGIC;
 			data		: IN STD_LOGIC_VECTOR (7 DOWNTO 0);
@@ -44,7 +44,7 @@ Begin
 VDD <= '1';
 GND <= '0';
 
-REG32_0 : REG_32BIT
+REG32_0 : entity work.reg_32bit(x)
 	port map (
 		RST 	   => RST,
 		CLK 	   => CLK,
@@ -53,7 +53,7 @@ REG32_0 : REG_32BIT
 		WRITE_EN => WE_REG0
 );
 
-REG32_1 : REG_32BIT
+REG32_1 : entity work.reg_32bit(x)
 	port map (
 		RST 	   => RST,
 		CLK 	   => CLK,
@@ -62,7 +62,7 @@ REG32_1 : REG_32BIT
 		WRITE_EN => WE_REG1
 );
 
-REG32_2 : REG_32BIT
+REG32_2 : entity work.reg_32bit(selfclear)
 	port map (
 		RST 	   => RST,
 		CLK 	   => CLK,
@@ -87,8 +87,8 @@ READDATA(31 downto 8) <= (others => '0') when CS='1' and READ_EN = '1' else (oth
 READDATA(7 downto 0) <= Q_BRAM when CS='1' and READ_EN = '1' else (others => 'Z');
 -- WE REGISTRADORES
 WE_REG0 <= WRITE_EN and CS and (not ADD(0)) and (not ADD(1));
-WE_REG1 <= WRITE_EN and CS and (not ADD(0)) and (ADD(1));
-WE_REG2 <= WRITE_EN and CS and (ADD(0)) and (not ADD(1));
+WE_REG1 <= WRITE_EN and CS and (ADD(0)) and (not ADD(1));
+WE_REG2 <= WRITE_EN and CS and (not ADD(0)) and (ADD(1));
 
 
 End architecture;

@@ -1,10 +1,10 @@
-Analysis & Synthesis Status : Successful - Thu Oct 20 05:40:08 2022
+Analysis & Synthesis Status : Successful - Wed Oct 26 21:26:23 2022
 Quartus Prime Version : 21.1.1 Build 850 06/23/2022 SJ Lite Edition
 Revision Name : USERHW_NIOS
 Top-level Entity Name : USERHW_NIOS
 Family : Cyclone 10 LP
 Total logic elements : 95
-    Total combinational functions : 61
+    Total combinational functions : 63
     Dedicated logic registers : 34
 Total registers : 34
 Total pins : 71

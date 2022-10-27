@@ -8,71 +8,30 @@ z2
 !i10f 100
 cModel Technology
 Z0 dD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/simulation/modelsim
-Ebram_tb
-Z1 w1666255368
-Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Eram
+Z1 w1666254173
+Z2 DPx9 altera_mf 20 altera_mf_components 0 22 GX]PGX0dkGdbU698H0h^l0
 Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
 R0
-Z5 8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/BRAM_tb.vhd
-Z6 FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/BRAM_tb.vhd
-l0
-L5
-VakM=_T@3_c_hVAQC1;MIm2
-!s100 [o25oCR3`V1[?CKg=T4S_3
-Z7 OV;C;10.5b;63
-32
-Z8 !s110 1666255375
-!i10b 1
-Z9 !s108 1666255375.000000
-Z10 !s90 -reportprogress|300|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/BRAM_tb.vhd|
-Z11 !s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/BRAM_tb.vhd|
-!i113 1
-Z12 o-work work
-Z13 tExplicit 1 CvgOpt 0
-Ax
-R2
-R3
-R4
-DEx4 work 7 bram_tb 0 22 akM=_T@3_c_hVAQC1;MIm2
-l31
-L8
-Vg]9`Cb3JdD>MVZFkzcIbn0
-!s100 lfS?GS9cC>FGHiLUN<ZFP3
-R7
-32
-R8
-!i10b 1
-R9
-R10
-R11
-!i113 1
-R12
-R13
-Eram
-Z14 w1666254173
-Z15 DPx9 altera_mf 20 altera_mf_components 0 22 GX]PGX0dkGdbU698H0h^l0
-R3
-R4
-R0
-Z16 8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/RAM.vhd
-Z17 FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/RAM.vhd
+Z5 8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/RAM.vhd
+Z6 FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/RAM.vhd
 l0
 L43
 VYzX8DiK5nJoi76enzV46`0
 !s100 `gSV;hBhmFeCkdi4bL:?l3
-R7
+Z7 OV;C;10.5b;63
 32
-R8
+Z8 !s110 1666831796
 !i10b 1
-R9
-Z18 !s90 -reportprogress|300|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/RAM.vhd|
-Z19 !s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/RAM.vhd|
+Z9 !s108 1666831796.000000
+Z10 !s90 -reportprogress|300|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/RAM.vhd|
+Z11 !s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/RAM.vhd|
 !i113 1
-R12
-R13
+Z12 o-work work
+Z13 tExplicit 1 CvgOpt 0
 Asyn
-R15
+R2
 R3
 R4
 DEx4 work 3 ram 0 22 YzX8DiK5nJoi76enzV46`0
@@ -85,60 +44,120 @@ R7
 R8
 !i10b 1
 R9
+R10
+R11
+!i113 1
+R12
+R13
+Ereg_32bit
+Z14 w1666829771
+Z15 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R3
+R4
+R0
+Z16 8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/reg_32bit.vhd
+Z17 FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/reg_32bit.vhd
+l0
+L5
+VMFQ[AmzeJHoIJDH2zJL173
+!s100 ;Tz?8kNW_U0MlVLZ_a_cQ1
+R7
+32
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/reg_32bit.vhd|
+Z19 !s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/reg_32bit.vhd|
+!i113 1
+R12
+R13
+Aselfclear
+R15
+R3
+R4
+Z20 DEx4 work 9 reg_32bit 0 22 MFQ[AmzeJHoIJDH2zJL173
+l31
+L30
+V?D5Ek1DHOS8M3M^i]7P^X2
+!s100 o?_M6`A:`_7`b>MHo_bnV2
+R7
+32
+R8
+!i10b 1
+R9
 R18
 R19
 !i113 1
 R12
 R13
-Ereg_32bit
-Z20 w1666254450
-R2
+Ax
+R15
 R3
 R4
-R0
-Z21 8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/reg_32bit.vhd
-Z22 FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/reg_32bit.vhd
-l0
-L5
-VTB>[K:?S>zS[deik^6Tnd3
-!s100 @Tg@za84:<5=hIke`oTzh2
+R20
+l16
+L15
+VIAco`NjDTjFoSi<eSJYz@1
+!s100 gXnOU`o=<Pbh3^5lYIVFU0
 R7
 32
 R8
 !i10b 1
 R9
-Z23 !s90 -reportprogress|300|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/reg_32bit.vhd|
-Z24 !s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/reg_32bit.vhd|
+R18
+R19
+!i113 1
+R12
+R13
+Etop_avalon_tb
+Z21 w1666831515
+R15
+R3
+R4
+R0
+Z22 8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/BRAM_tb.vhd
+Z23 FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/BRAM_tb.vhd
+l0
+L5
+V3kJL>^RAnmXVTOYb1]DVj0
+!s100 [RiGQXi10E<YjZ64ZZj3k2
+R7
+32
+R8
+!i10b 1
+R9
+Z24 !s90 -reportprogress|300|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/BRAM_tb.vhd|
+Z25 !s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/BRAM_tb.vhd|
 !i113 1
 R12
 R13
 Ax
-R2
+R15
 R3
 R4
-DEx4 work 9 reg_32bit 0 22 TB>[K:?S>zS[deik^6Tnd3
-l16
-L15
-V467mgEG2BH<hCRm0T_[RO2
-!s100 WVImY=Og^EE=Q^GSQYi_a0
+DEx4 work 13 top_avalon_tb 0 22 3kJL>^RAnmXVTOYb1]DVj0
+l31
+L8
+VT9W63B0]DE66]^Lk[VQcc1
+!s100 ;7YW1mgJ;e]QEGZ6O9XN91
 R7
 32
 R8
 !i10b 1
 R9
-R23
 R24
+R25
 !i113 1
 R12
 R13
 Euserhw_nios
-Z25 w1666255152
-R2
+Z26 w1666831790
+R15
 R3
 R4
 R0
-Z26 8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/USERHW_NIOS.vhd
-Z27 FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/USERHW_NIOS.vhd
+Z27 8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/USERHW_NIOS.vhd
+Z28 FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/USERHW_NIOS.vhd
 l0
 L5
 VgDFL_>nzHGo99ISYAzCEE3
@@ -148,27 +167,28 @@ R7
 R8
 !i10b 1
 R9
-Z28 !s90 -reportprogress|300|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/USERHW_NIOS.vhd|
-Z29 !s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/USERHW_NIOS.vhd|
+Z29 !s90 -reportprogress|300|-work|work|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/USERHW_NIOS.vhd|
+Z30 !s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/USERHW_NIOS.vhd|
 !i113 1
 R12
 R13
 Ax
-R2
+R20
+R15
 R3
 R4
-Z30 DEx4 work 11 userhw_nios 0 22 gDFL_>nzHGo99ISYAzCEE3
+Z31 DEx4 work 11 userhw_nios 0 22 gDFL_>nzHGo99ISYAzCEE3
 l43
 L18
-Z31 VTTR_K[ha@BL1GACSne<340
-Z32 !s100 RQX8N5oROkNm?RRzPXiaF3
+V2KL2HmJ@QA69][<APi8hh3
+!s100 ?I`63]LLnQkl7Tg74e08m2
 R7
 32
 R8
 !i10b 1
 R9
-R28
 R29
+R30
 !i113 1
 R12
 R13

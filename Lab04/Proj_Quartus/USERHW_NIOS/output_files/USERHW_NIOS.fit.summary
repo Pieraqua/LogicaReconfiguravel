@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Oct 26 21:08:57 2022
+Quartus Prime Version : 21.1.1 Build 850 06/23/2022 SJ Lite Edition
+Revision Name : USERHW_NIOS
+Top-level Entity Name : USERHW_NIOS
+Family : Cyclone 10 LP
+Device : 10CL025YU256I7G
+Timing Models : Final
+Total logic elements : 89 / 24,624 ( < 1 % )
+    Total combinational functions : 63 / 24,624 ( < 1 % )
+    Dedicated logic registers : 34 / 24,624 ( < 1 % )
+Total registers : 34
+Total pins : 71 / 151 ( 47 % )
+Total virtual pins : 0
+Total memory bits : 524,288 / 608,256 ( 86 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

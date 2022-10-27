@@ -156,11 +156,11 @@
 					"strict" : false
 				},
 				{
-					"name" : "ADD[1]",
+					"name" : "ADD[0]",
 					"strict" : false
 				},
 				{
-					"name" : "ADD[0]",
+					"name" : "ADD[1]",
 					"strict" : false
 				},
 				{

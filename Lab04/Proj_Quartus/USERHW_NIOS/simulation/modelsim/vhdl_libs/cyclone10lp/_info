@@ -24,9 +24,9 @@ VF6m[eX3a3hYcB_1<C;FD91
 !s100 a7lm4EM[XKWhZVl0b>BOd1
 Z9 OV;C;10.5b;63
 31
-Z10 !s110 1666254808
+Z10 !s110 1666830507
 !i10b 1
-Z11 !s108 1666254808.000000
+Z11 !s108 1666830507.000000
 Z12 !s90 -reportprogress|300|-93|-work|cyclone10lp|d:/programfiles/intelfpga_lite/21.1/quartus/eda/sim_lib/cyclone10lp_atoms.vhd|
 Z13 !s107 d:/programfiles/intelfpga_lite/21.1/quartus/eda/sim_lib/cyclone10lp_atoms.vhd|
 !i113 1
@@ -70,7 +70,7 @@ VPGNi;^T>[TgEBY]Q4IdgZ1
 !s100 S_Q@Y?@3BFSC:M7eK;H8A0
 R9
 31
-R10
+Z18 !s110 1666830508
 !i10b 1
 R11
 R12
@@ -92,7 +92,7 @@ Vl`d?IT[e^[N@0NKK`?Lg31
 !s100 ]7jhUne2gPjGO4Q_>m[H;0
 R9
 31
-R10
+R18
 !i10b 1
 R11
 R12
@@ -185,7 +185,7 @@ R14
 R15
 Ecyclone10lp_clkctrl
 R1
-Z18 DEx4 work 19 cyclone10lp_ena_reg 0 22 QJoLM>lF:4em=DGL49?8[2
+Z19 DEx4 work 19 cyclone10lp_ena_reg 0 22 QJoLM>lF:4em=DGL49?8[2
 R3
 R2
 R4
@@ -245,9 +245,9 @@ VD6lE`_aSKa9f=Mdo1`IYV1
 !s100 9d9W<NP>UzeUZFn@[of?82
 R9
 31
-R10
+!s110 1666830509
 !i10b 1
-R11
+!s108 1666830509.000000
 !s90 -reportprogress|300|-93|-work|cyclone10lp|d:/programfiles/intelfpga_lite/21.1/quartus/eda/sim_lib/cyclone10lp_components.vhd|
 !s107 d:/programfiles/intelfpga_lite/21.1/quartus/eda/sim_lib/cyclone10lp_components.vhd|
 !i113 1
@@ -269,7 +269,7 @@ VE;6Wzb0`ezc43_P9_]E`^3
 !s100 mgUaB<6Yk15QK?LI?XLFR2
 R9
 31
-R10
+R18
 !i10b 1
 R11
 R12
@@ -290,7 +290,7 @@ VPB[Nd^z50zi1I;VKGhUV?2
 !s100 Hz>f5gF5c0=b_862QY<5X2
 R9
 31
-R10
+R18
 !i10b 1
 R11
 R12
@@ -422,7 +422,7 @@ R2
 R4
 R5
 R6
-Z19 DEx4 work 16 cyclone10lp_dffe 0 22 @W8o_6NRD4?^bPZ6VIklb0
+Z20 DEx4 work 16 cyclone10lp_dffe 0 22 @W8o_6NRD4?^bPZ6VIklb0
 l1104
 L1095
 VoMbH^42I14_ljV0^>]bG]3
@@ -467,7 +467,7 @@ R2
 R4
 R5
 R6
-R18
+R19
 l8303
 L8299
 Vd]Ez2>z_aS:iR;3UgN0OU1
@@ -625,7 +625,7 @@ R1
 R2
 R4
 R17
-Z20 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z21 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
 R5
 R6
 R0
@@ -649,7 +649,7 @@ Aarch
 R2
 R4
 R17
-R20
+R21
 R5
 R6
 DEx4 work 18 cyclone10lp_io_pad 0 22 _^PU<cK<lC[T4M=LP]1<[1
@@ -683,7 +683,7 @@ V@kJbHGl?J0FPJZ^3oCjKh2
 !s100 JN6PHR:IC<FC=d3O>Sh6H0
 R9
 31
-R10
+R18
 !i10b 1
 R11
 R12
@@ -704,7 +704,7 @@ VR]V>WgRoz6RC=DNO2iMGF3
 !s100 ][8B3Of3cOLSK:hM5RUQV3
 R9
 31
-R10
+R18
 !i10b 1
 R11
 R12
@@ -832,7 +832,7 @@ R4
 R5
 R6
 R2
-Z21 DEx4 work 24 cyclone10lp_mac_data_reg 0 22 ?67QAV<QA43Vhkj5>Cg@I2
+Z22 DEx4 work 24 cyclone10lp_mac_data_reg 0 22 ?67QAV<QA43Vhkj5>Cg@I2
 l6376
 L6368
 V6V1KR;eba8U>oEb=XmNTV0
@@ -849,11 +849,11 @@ R14
 R15
 Ecyclone10lp_mac_mult
 R1
-Z22 DEx4 work 29 cyclone10lp_mac_mult_internal 0 22 ZWPc8_B80meA@FFX4PTJL1
-Z23 DEx4 work 24 cyclone10lp_mac_sign_reg 0 22 K^G5KjK@7=WzV7:`[]i`E0
-R21
+Z23 DEx4 work 29 cyclone10lp_mac_mult_internal 0 22 ZWPc8_B80meA@FFX4PTJL1
+Z24 DEx4 work 24 cyclone10lp_mac_sign_reg 0 22 K^G5KjK@7=WzV7:`[]i`E0
+R22
 R3
-R20
+R21
 R17
 R4
 R5
@@ -878,7 +878,7 @@ R14
 R15
 Avital_cyclone10lp_mac_mult
 R3
-R20
+R21
 R17
 R4
 R5
@@ -902,7 +902,7 @@ R15
 Ecyclone10lp_mac_mult_internal
 R1
 R3
-R20
+R21
 R17
 R4
 R5
@@ -927,13 +927,13 @@ R14
 R15
 Avital_cyclone10lp_mac_mult_internal
 R3
-R20
+R21
 R17
 R4
 R5
 R6
 R2
-R22
+R23
 l6678
 L6666
 VF[Bl:o=hQ8Wfza[l=?9R@2
@@ -1023,7 +1023,7 @@ R4
 R5
 R6
 R2
-R23
+R24
 l6534
 L6528
 VP3MT?5o>RN[e6]cdH<ZL@0
@@ -1042,7 +1042,7 @@ Ecyclone10lp_mn_cntr
 R1
 R2
 R4
-R20
+R21
 R17
 R5
 R6
@@ -1066,11 +1066,11 @@ R15
 Abehave
 R2
 R4
-R20
+R21
 R17
 R5
 R6
-Z24 DEx4 work 19 cyclone10lp_mn_cntr 0 22 3NiI]cUOOIADm:g_T_P2>1
+Z25 DEx4 work 19 cyclone10lp_mn_cntr 0 22 3NiI]cUOOIADm:g_T_P2>1
 l1749
 L1748
 V]JQhZT?[gQZmk?Ne8nZGH0
@@ -1192,7 +1192,7 @@ VHmkZJHYET9J@eCCfLIg6<3
 !s100 @NWilH]CjNnBa14GRXC;g0
 R9
 31
-R10
+R18
 !i10b 1
 R11
 R12
@@ -1214,7 +1214,7 @@ Vl9WPhOn=2R7?FQEkdI;L<2
 !s100 DnCIPNnG?ZMDM1?E>bkP13
 R9
 31
-R10
+R18
 !i10b 1
 R11
 R12
@@ -1224,13 +1224,13 @@ R14
 R15
 Ecyclone10lp_pll
 R1
-Z25 DEx4 work 19 cyclone10lp_pll_reg 0 22 YHGX=Y5PVB8HY:YFTG]a33
-R19
-Z26 DEx4 work 22 cyclone10lp_scale_cntr 0 22 o3mOS`5XJ<7i:>Ol64JH_2
+Z26 DEx4 work 19 cyclone10lp_pll_reg 0 22 YHGX=Y5PVB8HY:YFTG]a33
 R20
+Z27 DEx4 work 22 cyclone10lp_scale_cntr 0 22 o3mOS`5XJ<7i:>Ol64JH_2
+R21
 R17
-R24
-Z27 DPx4 work 19 cyclone10lp_pllpack 0 22 @BK?aZ;O@^H2QL_SRzcgj2
+R25
+Z28 DPx4 work 19 cyclone10lp_pllpack 0 22 @BK?aZ;O@^H2QL_SRzcgj2
 R3
 R2
 R4
@@ -1254,9 +1254,9 @@ R13
 R14
 R15
 Avital_pll
-R20
+R21
 R17
-R27
+R28
 R3
 R2
 R4
@@ -1301,7 +1301,7 @@ R15
 Abehave
 R5
 R6
-R25
+R26
 l1876
 L1875
 VVaBbn50SU[>4G0GWEW9U80
@@ -1339,7 +1339,7 @@ R13
 R14
 R15
 Bbody
-R27
+R28
 R5
 R6
 l0
@@ -1405,8 +1405,8 @@ R14
 R15
 Ecyclone10lp_ram_block
 R1
-Z28 DEx4 work 31 cyclone10lp_ram_pulse_generator 0 22 _V;7d9RnC9?lXEU]BWb;h1
-Z29 DEx4 work 24 cyclone10lp_ram_register 0 22 k[zPCoGdBC233aeGo0P5X3
+Z29 DEx4 work 31 cyclone10lp_ram_pulse_generator 0 22 _V;7d9RnC9?lXEU]BWb;h1
+Z30 DEx4 work 24 cyclone10lp_ram_register 0 22 k[zPCoGdBC233aeGo0P5X3
 R3
 R2
 R4
@@ -1480,7 +1480,7 @@ R2
 R4
 R5
 R6
-R28
+R29
 l5132
 L5128
 VOcf[a9oOC<b=PVIV6SOz:2
@@ -1525,7 +1525,7 @@ R2
 R4
 R5
 R6
-R29
+R30
 l4975
 L4967
 VeE1bnXK0]9>f5a4I8CJl]0
@@ -1660,7 +1660,7 @@ R2
 R4
 R5
 R6
-R26
+R27
 l1805
 L1804
 V;U6dHOT4YNjDbhBONzSm>0
@@ -1688,7 +1688,7 @@ VO[2HPYW0fKE;IXa75YLz33
 !s100 ?@zc:TP0Rj[nJ[8bhihLz1
 R9
 31
-R10
+R18
 !i10b 1
 R11
 R12
@@ -1706,7 +1706,7 @@ VcnS1Amj>`_4<QDVU6E9A:1
 !s100 fTU[PO;bnlfX9bFUJXa5C3
 R9
 31
-R10
+R18
 !i10b 1
 R11
 R12
