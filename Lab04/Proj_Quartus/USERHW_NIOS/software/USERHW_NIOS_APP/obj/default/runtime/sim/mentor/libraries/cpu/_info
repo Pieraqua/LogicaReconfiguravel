@@ -1,0 +1,708 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/software/USERHW_NIOS_APP/obj/default/runtime/sim/mentor
+vYKhqYsROy1IWE7Vydo0UswJQ+K76fWGZOOXnZ3PGSxA=
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1667098582
+!i10b 0
+!s100 G@4X8gY6I:0i7iY8`:9cE0
+Ie0z;F[NjZ4HFN1lZd?d_;0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!i8a 1552137328
+!s105 altera_nios2_gen2_rtl_module_sv_unit
+S1
+R0
+w1667098582
+8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/mentor/altera_nios2_gen2_rtl_module.sv
+FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/mentor/altera_nios2_gen2_rtl_module.sv
+L0 12
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1667098581.000000
+!s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/mentor/altera_nios2_gen2_rtl_module.sv|
+!s90 -reportprogress|300|-sv|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/mentor/altera_nios2_gen2_rtl_module.sv|-work|cpu|
+!i113 1
+o-sv -work cpu
+Z4 tCvgOpt 0
+nfa49a25
+vunsaved_nios2_gen2_0_cpu
+Z5 !s110 1667098581
+!i10b 1
+!s100 `:3gmg<W_@5Vc]2B:LE2L2
+I9nU4=bGMW7ON<0TL45l[c1
+R1
+R0
+Z6 w1667097938
+Z7 8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu.v
+Z8 FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu.v
+L0 3439
+R2
+r1
+!s85 0
+31
+Z9 !s108 1667098580.000000
+Z10 !s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu.v|
+Z11 !s90 -reportprogress|300|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu.v|-work|cpu|
+!i113 1
+Z12 o-work cpu
+R4
+vunsaved_nios2_gen2_0_cpu_bht_module
+Z13 !s110 1667098580
+!i10b 1
+!s100 9dMA7=ej2N3Wd>DCG69OA0
+INf>eJWFF4cVZhi@3Y8jdU0
+R1
+R0
+R6
+R7
+R8
+L0 158
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_dc_data_module
+R13
+!i10b 1
+!s100 ij4G[Jd[a17W@he<ZVRhi1
+IlZO`;SebS`bT5Q?fgF4k>2
+R1
+R0
+R6
+R7
+R8
+L0 425
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_dc_tag_module
+R13
+!i10b 1
+!s100 aFNc2@EiHM?9ecUl_>3bP2
+I0;m8:n6@Q8gzKbTO;f8W[0
+R1
+R0
+R6
+R7
+R8
+L0 359
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_dc_victim_module
+R13
+!i10b 1
+!s100 Lh]lhGYdLlG2R2:dRb0Bh1
+I_m;JBI[[aUJKeM>D@[@6T2
+R1
+R0
+R6
+R7
+R8
+L0 494
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_debug_slave_sysclk
+R5
+!i10b 1
+!s100 U8jlWcio=9adEzkj]2VTG3
+IO<<=`G:1NO;UIE71Z1BaG3
+R1
+R0
+R6
+8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_sysclk.v
+FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_sysclk.v
+Z14 L0 21
+R2
+r1
+!s85 0
+31
+R3
+!s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_sysclk.v|
+!s90 -reportprogress|300|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_sysclk.v|-work|cpu|
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_debug_slave_tck
+R5
+!i10b 1
+!s100 ]R<Q7lhc6UJIUP9IZ_[;`0
+IH[_G8LhK_<c5WdWW2@R>z3
+R1
+R0
+R6
+8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_tck.v
+FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_tck.v
+R14
+R2
+r1
+!s85 0
+31
+R3
+!s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_tck.v|
+!s90 -reportprogress|300|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_tck.v|-work|cpu|
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_debug_slave_wrapper
+R5
+!i10b 1
+!s100 6Hf9[8of<WkFVzh9NL4>M3
+InF?h<<PH1B5R@SU]b9IzC3
+R1
+R0
+R6
+8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_wrapper.v
+FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_wrapper.v
+R14
+R2
+r1
+!s85 0
+31
+R3
+!s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_wrapper.v|
+!s90 -reportprogress|300|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_wrapper.v|-work|cpu|
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_ic_data_module
+R13
+!i10b 1
+!s100 TgdMzd:bZc2?mPUE:759<3
+I_k;:i8nf7X9cH5b9>E9[K2
+R1
+R0
+R6
+R7
+R8
+R14
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_ic_tag_module
+R13
+!i10b 1
+!s100 DZlk?cKTEL_hVc6Q;8Y7n1
+IEP1f15=hJ4ii18;_NLh:42
+R1
+R0
+R6
+R7
+R8
+L0 89
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_mult_cell
+R5
+!i10b 1
+!s100 GVeXI9MQ<KocbCX5LIR9d0
+IgWBV]h3>R`54Yi>7GG=a^3
+R1
+R0
+R6
+8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_mult_cell.v
+FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_mult_cell.v
+R14
+R2
+r1
+!s85 0
+31
+R3
+!s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_mult_cell.v|
+!s90 -reportprogress|300|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_mult_cell.v|-work|cpu|
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_nios2_avalon_reg
+R5
+!i10b 1
+!s100 CIU5:4UO^]^`8hQ^d4Z]Q3
+I>OA4^LnC3Z2[2^gNW7QHX0
+R1
+R0
+R6
+R7
+R8
+L0 2555
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_nios2_oci
+R5
+!i10b 1
+!s100 SB?gaPJHGD]204JJkzRKd2
+I?44d4ePOhBmQV3jD=484d0
+R1
+R0
+R6
+R7
+R8
+L0 2894
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_nios2_oci_break
+R13
+!i10b 1
+!s100 @T_7ZYSdW]I:MeneBShT71
+I76aXDhfS2Q5f=TUE;[>lR3
+R1
+R0
+R6
+R7
+R8
+L0 721
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_nios2_oci_compute_input_tm_cnt
+R13
+!i10b 1
+!s100 nFTh>>@9^Oja2]l<H3IZF1
+I2@[g624l8^gO_HEaf_5hg1
+R1
+R0
+R6
+R7
+R8
+L0 1797
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_nios2_oci_dbrk
+R13
+!i10b 1
+!s100 C0fkh@T0VF5oIlZJlgh1_3
+I[]O]HGXClA8K4CBmD?Sj60
+R1
+R0
+R6
+R7
+R8
+L0 1275
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_nios2_oci_debug
+R13
+!i10b 1
+!s100 MLMceKEai87`4E9YOM7hL0
+I>@jHIGT2LNFPoKCDQO_n73
+R1
+R0
+R6
+R7
+R8
+L0 562
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_nios2_oci_dtrace
+R13
+!i10b 1
+!s100 ^0blF2Ok=WK1XOgb_EUC10
+I4PaXnUJnRzSH3HYjIfYA30
+R1
+R0
+R6
+R7
+R8
+L0 1715
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_nios2_oci_fifo
+R13
+!i10b 1
+!s100 jnciUT9ceUD`=7hM`9iUi0
+IA48?G0fngRP>hQkNFfV8O2
+R1
+R0
+R6
+R7
+R8
+L0 1959
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_nios2_oci_fifo_cnt_inc
+R13
+!i10b 1
+!s100 >U;b[fT@Cc:_N6N?Z4^V;1
+I4?[dkW[O=Ec^T`VWJfONo3
+R1
+R0
+R6
+R7
+R8
+L0 1912
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_nios2_oci_fifo_wrptr_inc
+R13
+!i10b 1
+!s100 ]5:N]nVPAdZOE8]_FN>1n3
+I?TMJ8O4`be0OiSLlcdS4e2
+R1
+R0
+R6
+R7
+R8
+L0 1869
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_nios2_oci_im
+R5
+!i10b 1
+!s100 5[ME7MiP07EjaM=SDS=a<3
+IUMLBH5BaMRdzgbJWVK^QQ0
+R1
+R0
+R6
+R7
+R8
+L0 2468
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_nios2_oci_itrace
+R13
+!i10b 1
+!s100 ?zz1XYg[>40EPKn>BAZU^0
+I7PJDY^_k@5:eYW?PK?[;O2
+R1
+R0
+R6
+R7
+R8
+L0 1464
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_nios2_oci_pib
+R5
+!i10b 1
+!s100 CCkA9O2Hg<^8aaZYVOGVU0
+IV[6niTEYYVCNMz3=ma=3C2
+R1
+R0
+R6
+R7
+R8
+L0 2445
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_nios2_oci_td_mode
+R13
+!i10b 1
+!s100 [2^>heI`K``P^FP22EAQ;0
+I@LR;><QVl:ogNT6UMUL620
+R1
+R0
+R6
+R7
+R8
+L0 1647
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_nios2_oci_xbrk
+R13
+!i10b 1
+!s100 hZ45fX:;aQ7ZzD]=>^HVb0
+I@>C=;;iE1C@L5UU^b`>l91
+R1
+R0
+R6
+R7
+R8
+L0 1014
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_nios2_ocimem
+R5
+!i10b 1
+!s100 oM511N>c^R^U@HRl;gi<Y0
+I0FfQ2c1Ud0ecKOLUGhGNn0
+R1
+R0
+R6
+R7
+R8
+L0 2713
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_nios2_performance_monitors
+R5
+!i10b 1
+!s100 ]oU9hg4FXRXZmSn`YXC;V1
+I^FYQ>ofO6I::T_cMMEOd93
+R1
+R0
+R6
+R7
+R8
+L0 2538
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_ociram_sp_ram_module
+R5
+!i10b 1
+!s100 82g4Hnme@>3i1J1QjcU9J2
+I]QEEI2_?[iRV5@GA^h^b@0
+R1
+R0
+R6
+R7
+R8
+L0 2648
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_register_bank_a_module
+R13
+!i10b 1
+!s100 Rg]c;>>^EO7b9S3ag5?@H1
+I]PYi9]V3HKf2njnW:8Wj03
+R1
+R0
+R6
+R7
+R8
+L0 227
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_register_bank_b_module
+R13
+!i10b 1
+!s100 6W@kYzf;PTG<hE0R0mzYg2
+Iz5Fj=Li9BQA[E;flohXg;0
+R1
+R0
+R6
+R7
+R8
+L0 293
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R4
+vunsaved_nios2_gen2_0_cpu_test_bench
+R5
+!i10b 1
+!s100 :K7>^j6`TF=FzgW?82P8N3
+Im@`dbaP43hmlGan9fF4<L1
+R1
+R0
+R6
+8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_test_bench.v
+FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_test_bench.v
+R14
+R2
+r1
+!s85 0
+31
+R3
+!s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_test_bench.v|
+!s90 -reportprogress|300|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0_cpu_test_bench.v|-work|cpu|
+!i113 1
+R12
+R4

@@ -1,0 +1,130 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/software/USERHW_NIOS_APP/obj/default/runtime/sim/mentor
+valtera_avalon_sc_fifo
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1667098579
+!i10b 1
+!s100 AmIg@HKgzRdiLX?Qo8hRz3
+I=VGH_NQn?0KgPTF8_?PK70
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 altera_avalon_sc_fifo_v_unit
+S1
+R0
+Z4 w1667097938
+8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_avalon_sc_fifo.v
+FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_avalon_sc_fifo.v
+L0 21
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1667098579.000000
+!s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|-sv|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_avalon_sc_fifo.v|-work|nios2_gen2_0_data_master_limiter|
+!i113 1
+Z7 o-sv -work nios2_gen2_0_data_master_limiter
+Z8 tCvgOpt 0
+valtera_avalon_st_pipeline_base
+R1
+R2
+!i10b 1
+!s100 IZ246NSd;dW2a7WAUFMLa1
+I<H`LA<EK:?aO;F]>TE3Y@1
+R3
+!s105 altera_avalon_st_pipeline_base_v_unit
+S1
+R0
+R4
+8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_avalon_st_pipeline_base.v
+FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_avalon_st_pipeline_base.v
+L0 22
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_avalon_st_pipeline_base.v|
+!s90 -reportprogress|300|-sv|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_avalon_st_pipeline_base.v|-work|nios2_gen2_0_data_master_limiter|
+!i113 1
+R7
+R8
+valtera_merlin_reorder_memory
+R1
+R2
+!i10b 1
+!s100 B]Q3gm[]eMNh?7KLoTHDO0
+IG3Ti3Ic@FGP];:LT<h_IA1
+R3
+Z9 !s105 altera_merlin_reorder_memory_sv_unit
+S1
+R0
+R4
+Z10 8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_merlin_reorder_memory.sv
+Z11 FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_merlin_reorder_memory.sv
+L0 28
+R5
+r1
+!s85 0
+31
+R6
+Z12 !s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_merlin_reorder_memory.sv|
+Z13 !s90 -reportprogress|300|-sv|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_merlin_reorder_memory.sv|-work|nios2_gen2_0_data_master_limiter|
+!i113 1
+R7
+R8
+valtera_merlin_traffic_limiter
+R1
+R2
+!i10b 1
+!s100 0h4;DR_^c13j]SXILa7d?1
+IOVkW^<02<g3hk1NIZ?>hT1
+R3
+!s105 altera_merlin_traffic_limiter_sv_unit
+S1
+R0
+R4
+8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_merlin_traffic_limiter.sv
+FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_merlin_traffic_limiter.sv
+L0 49
+R5
+r1
+!s85 0
+31
+!s108 1667098578.000000
+!s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_merlin_traffic_limiter.sv|
+!s90 -reportprogress|300|-sv|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_merlin_traffic_limiter.sv|-work|nios2_gen2_0_data_master_limiter|
+!i113 1
+R7
+R8
+vmemory_pointer_controller
+R1
+R2
+!i10b 1
+!s100 SnO4nm[FfBVF>D;LEgjzR2
+Ihk=k_L3P4i]DL`NXb`5>h1
+R3
+R9
+S1
+R0
+R4
+R10
+R11
+L0 185
+R5
+r1
+!s85 0
+31
+R6
+R12
+R13
+!i113 1
+R7
+R8

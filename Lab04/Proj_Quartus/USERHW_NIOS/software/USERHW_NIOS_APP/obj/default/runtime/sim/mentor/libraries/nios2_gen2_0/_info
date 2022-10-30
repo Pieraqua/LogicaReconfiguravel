@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/software/USERHW_NIOS_APP/obj/default/runtime/sim/mentor
+vunsaved_nios2_gen2_0
+!s110 1667098582
+!i10b 1
+!s100 ZmW:_H?oEfWzPT>@IR1PX3
+In7;GUZDz>TTQXjejFD7h22
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1667097932
+8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0.v
+FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0.v
+L0 9
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1667098582.000000
+!s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0.v|
+!s90 -reportprogress|300|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_nios2_gen2_0.v|-work|nios2_gen2_0|
+!i113 1
+o-work nios2_gen2_0
+tCvgOpt 0

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+<file path="hdl_sim/unsaved_RAM.dat" type="DAT" initParamName="INIT_FILE" memoryPath="RAM" />
+<file path="hdl_sim/unsaved_ROM.dat" type="DAT" initParamName="INIT_FILE" memoryPath="ROM" />
+<file path="unsaved_RAM.hex" type="HEX" initParamName="INIT_FILE" memoryPath="RAM" />
+<file path="unsaved_ROM.hex" type="HEX" initParamName="INIT_FILE" memoryPath="ROM" />
+</simPackage>

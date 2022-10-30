@@ -1,0 +1,1677 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/simulation/modelsim
+valtera_avalon_sc_fifo
+Z1 !s110 1667096100
+!i10b 1
+!s100 4mK@em][G=j]om3zJIhOc0
+I]00[U`<bkT[a@bU;C8J;Q2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1667095831
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_avalon_sc_fifo.v
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_avalon_sc_fifo.v
+Z4 L0 21
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1667096100.000000
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_avalon_sc_fifo.v|
+!i113 1
+Z7 o-vlog01compat -work unsaved
+Z8 !s92 -vlog01compat -work unsaved +incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules
+Z9 tCvgOpt 0
+valtera_merlin_arb_adder
+Z10 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R1
+!i10b 1
+!s100 1Jn[a;@5nZmTN?DFKQNzj2
+I8;WD7OGNeeH?L@SSjWE8Q2
+R2
+Z11 !s105 altera_merlin_arbitrator_sv_unit
+S1
+R0
+Z12 w1667095832
+Z13 8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_arbitrator.sv
+Z14 Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_arbitrator.sv
+L0 228
+R5
+r1
+!s85 0
+31
+R6
+Z15 !s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_arbitrator.sv|
+Z16 !s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_arbitrator.sv|
+!i113 1
+Z17 o-sv -work unsaved
+Z18 !s92 -sv -work unsaved +incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules
+R9
+valtera_merlin_arbitrator
+R10
+R1
+!i10b 1
+!s100 NQTehjm2fNQROUMUzShGa1
+IEP52_2kFCm4DJ2c1=19cM3
+R2
+R11
+S1
+R0
+R12
+R13
+R14
+L0 103
+R5
+r1
+!s85 0
+31
+R6
+R15
+R16
+!i113 1
+R17
+R18
+R9
+valtera_merlin_burst_uncompressor
+R10
+R1
+!i10b 1
+!s100 f1?Rb<=9U?R9LJoHl;7>T3
+IQ3ig^Yj<7BjOD_kdULGTQ2
+R2
+!s105 altera_merlin_burst_uncompressor_sv_unit
+S1
+R0
+R3
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_burst_uncompressor.sv
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_burst_uncompressor.sv
+L0 40
+R5
+r1
+!s85 0
+31
+R6
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_burst_uncompressor.sv|
+!s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_burst_uncompressor.sv|
+!i113 1
+R17
+R18
+R9
+valtera_merlin_master_agent
+R10
+R1
+!i10b 1
+!s100 _CJm:YX=>U2LQKH;8=@cb0
+ISdUSci0coWf38Onn3l1cR2
+R2
+!s105 altera_merlin_master_agent_sv_unit
+S1
+R0
+R3
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_master_agent.sv
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_master_agent.sv
+L0 28
+R5
+r1
+!s85 0
+31
+R6
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_master_agent.sv|
+!s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_master_agent.sv|
+!i113 1
+R17
+R18
+R9
+valtera_merlin_master_translator
+R10
+R1
+!i10b 1
+!s100 NdRk@]3fC2C@V7Rm;dQM31
+IZ4cJhIZU8R`GcQ<m3[n@L0
+R2
+!s105 altera_merlin_master_translator_sv_unit
+S1
+R0
+R3
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_master_translator.sv
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_master_translator.sv
+L0 32
+R5
+r1
+!s85 0
+31
+R6
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_master_translator.sv|
+!s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_master_translator.sv|
+!i113 1
+R17
+R18
+R9
+valtera_merlin_slave_agent
+R10
+R1
+!i10b 1
+!s100 ePZN1d?B062J`OBb?blff3
+IeiR>=iNTbeDcZL0CQkQh52
+R2
+!s105 altera_merlin_slave_agent_sv_unit
+S1
+R0
+R3
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_slave_agent.sv
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_slave_agent.sv
+L0 34
+R5
+r1
+!s85 0
+31
+R6
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_slave_agent.sv|
+!s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_slave_agent.sv|
+!i113 1
+R17
+R18
+R9
+valtera_merlin_slave_translator
+R10
+R1
+!i10b 1
+!s100 k`9[YAn_dLTkg;GE`mOb61
+IBPXFDU5N8BknbR4?Dj;@z1
+R2
+!s105 altera_merlin_slave_translator_sv_unit
+S1
+R0
+R3
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_slave_translator.sv
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_slave_translator.sv
+L0 35
+R5
+r1
+!s85 0
+31
+R6
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_slave_translator.sv|
+!s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_slave_translator.sv|
+!i113 1
+R17
+R18
+R9
+valtera_merlin_traffic_limiter
+R10
+R1
+!i10b 1
+!s100 0h4;DR_^c13j]SXILa7d?1
+IcKNFd1j2TdcJ`Z=jAzTFS0
+R2
+!s105 altera_merlin_traffic_limiter_sv_unit
+S1
+R0
+R3
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_traffic_limiter.sv
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_traffic_limiter.sv
+L0 49
+R5
+r1
+!s85 0
+31
+R6
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_traffic_limiter.sv|
+!s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_merlin_traffic_limiter.sv|
+!i113 1
+R17
+R18
+R9
+valtera_reset_controller
+Z19 !s110 1667096098
+!i10b 1
+!s100 z[H_hRO9gO=:^2E3_jWH03
+ISM2=S8e7EgnlbTfd_a=Ra2
+R2
+R0
+Z20 w1667095828
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_reset_controller.v
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_reset_controller.v
+L0 42
+R5
+r1
+!s85 0
+31
+Z21 !s108 1667096098.000000
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_reset_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_reset_controller.v|
+!i113 1
+R7
+R8
+R9
+valtera_reset_synchronizer
+R19
+!i10b 1
+!s100 oWLYmSO[EOX[G0PgQhZ2=0
+ITDEznOAznhTaMz]Z9fV[V3
+R2
+R0
+R20
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_reset_synchronizer.v
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_reset_synchronizer.v
+L0 24
+R5
+r1
+!s85 0
+31
+R21
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_reset_synchronizer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/altera_reset_synchronizer.v|
+!i113 1
+R7
+R8
+R9
+Eram
+Z22 w1667095824
+Z23 DPx9 altera_mf 20 altera_mf_components 0 22 GX]PGX0dkGdbU698H0h^l0
+Z24 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z25 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z26 8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/ram.vhd
+Z27 Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/ram.vhd
+l0
+L43
+V`3A5T6dM@l@j;XzC:NLi73
+!s100 `gSV;hBhmFeCkdi4bL:?l3
+Z28 OV;C;10.5b;63
+31
+Z29 !s110 1667096102
+!i10b 1
+Z30 !s108 1667096102.000000
+Z31 !s90 -reportprogress|300|-93|-work|unsaved|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/ram.vhd|
+Z32 !s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/ram.vhd|
+!i113 1
+Z33 o-93 -work unsaved
+Z34 tExplicit 1 CvgOpt 0
+Asyn
+R23
+R24
+R25
+DEx4 work 3 ram 0 22 `3A5T6dM@l@j;XzC:NLi73
+l60
+L56
+VOc1ao9P88k?3@@4i2Z>362
+!s100 FVLXQWK2D2[@OF[bPXFgm1
+R28
+31
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R33
+R34
+vunsaved
+Z35 !s110 1667096099
+!i10b 1
+!s100 ;105BVU>Yl4W6WXiC7l[Z2
+I2>;gaI9gf6i[fPG=[Zlf83
+R2
+R0
+R22
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/unsaved.v
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/unsaved.v
+L0 6
+R5
+r1
+!s85 0
+31
+Z36 !s108 1667096099.000000
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/unsaved.v|
+!s90 -reportprogress|300|-vlog01compat|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/unsaved.v|
+!i113 1
+R7
+!s92 -vlog01compat -work unsaved +incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved
+R9
+vunsaved_irq_mapper
+R10
+Z37 !s110 1667096101
+!i10b 1
+!s100 JD@WIIJLUTgzUzY@m=mTH3
+IUhGQ0M6mJDP;;kKY@2`:C1
+R2
+!s105 unsaved_irq_mapper_sv_unit
+S1
+R0
+R20
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_irq_mapper.sv
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_irq_mapper.sv
+L0 31
+R5
+r1
+!s85 0
+31
+Z38 !s108 1667096101.000000
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_irq_mapper.sv|
+!s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_irq_mapper.sv|
+!i113 1
+R17
+R18
+R9
+vunsaved_mm_interconnect_0
+R19
+!i10b 1
+!s100 FZG@ELcBK3f1z;Y8Y<DZa3
+I>?9`39LzLICh<=0HX70;Z3
+R2
+R0
+R20
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0.v
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+R21
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0.v|
+!i113 1
+R7
+R8
+R9
+vunsaved_mm_interconnect_0_avalon_st_adapter
+R19
+!i10b 1
+!s100 hkkKzH;gZ=TaAJ[5ZNDKU0
+I;4=eZ5PJbF1W1^Ah9X4Q<2
+R2
+R0
+R12
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_avalon_st_adapter.v
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_avalon_st_adapter.v
+L0 9
+R5
+r1
+!s85 0
+31
+R21
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_avalon_st_adapter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_avalon_st_adapter.v|
+!i113 1
+R7
+R8
+R9
+vunsaved_mm_interconnect_0_avalon_st_adapter_error_adapter_0
+R10
+R37
+!i10b 1
+!s100 W3omDim7bGa:Pi7OWFG6<3
+Ik`2]UiCD87n]k^KH[5g0f3
+R2
+!s105 unsaved_mm_interconnect_0_avalon_st_adapter_error_adapter_0_sv_unit
+S1
+R0
+R12
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+L0 66
+R5
+r1
+!s85 0
+31
+R38
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!i113 1
+R17
+R18
+R9
+vunsaved_mm_interconnect_0_cmd_demux
+R10
+R37
+!i10b 1
+!s100 9o:Klk6=hD4<Dae5>Bi3B1
+I@8KB?IU_WF6zomHfaF3Wj1
+R2
+!s105 unsaved_mm_interconnect_0_cmd_demux_sv_unit
+S1
+R0
+R12
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_cmd_demux.sv
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_cmd_demux.sv
+Z39 L0 43
+R5
+r1
+!s85 0
+31
+R38
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_cmd_demux.sv|
+!s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_cmd_demux.sv|
+!i113 1
+R17
+R18
+R9
+vunsaved_mm_interconnect_0_cmd_demux_001
+R10
+R37
+!i10b 1
+!s100 PTS<Z0I84]7[>MT`FOGE<0
+I3C7YePdMUM66z263Z?kgO2
+R2
+!s105 unsaved_mm_interconnect_0_cmd_demux_001_sv_unit
+S1
+R0
+R12
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_cmd_demux_001.sv
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_cmd_demux_001.sv
+R39
+R5
+r1
+!s85 0
+31
+R38
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_cmd_demux_001.sv|
+!s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_cmd_demux_001.sv|
+!i113 1
+R17
+R18
+R9
+vunsaved_mm_interconnect_0_cmd_mux
+R10
+R37
+!i10b 1
+!s100 :YdCkTgCIBCncSSg^8=G;0
+ICMEIC[>?;iD`EUkLc93NB3
+R2
+!s105 unsaved_mm_interconnect_0_cmd_mux_sv_unit
+S1
+R0
+R12
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_cmd_mux.sv
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_cmd_mux.sv
+Z40 L0 51
+R5
+r1
+!s85 0
+31
+R38
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_cmd_mux.sv|
+!s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_cmd_mux.sv|
+!i113 1
+R17
+R18
+R9
+vunsaved_mm_interconnect_0_cmd_mux_001
+R10
+R37
+!i10b 1
+!s100 nDI0:6T4KoX[S<jj;`dZS2
+Ie[dcfBm;YR0?kEjJzJI1a0
+R2
+!s105 unsaved_mm_interconnect_0_cmd_mux_001_sv_unit
+S1
+R0
+R12
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_cmd_mux_001.sv
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_cmd_mux_001.sv
+R40
+R5
+r1
+!s85 0
+31
+R38
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_cmd_mux_001.sv|
+!s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_cmd_mux_001.sv|
+!i113 1
+R17
+R18
+R9
+vunsaved_mm_interconnect_0_router
+R10
+R37
+!i10b 1
+!s100 =[8QaRNKN5fKZG:M=S;Fd1
+I36MKWYD]am?lWBjiKDCWM3
+R2
+Z41 !s105 unsaved_mm_interconnect_0_router_sv_unit
+S1
+R0
+R3
+Z42 8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router.sv
+Z43 Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router.sv
+Z44 L0 84
+R5
+r1
+!s85 0
+31
+R38
+Z45 !s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router.sv|
+Z46 !s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router.sv|
+!i113 1
+R17
+R18
+R9
+vunsaved_mm_interconnect_0_router_001
+R10
+R37
+!i10b 1
+!s100 ]YAXHcHAQILag7fE_0bV;1
+I[e0E9Ya_k[eBm20gbdOLF1
+R2
+Z47 !s105 unsaved_mm_interconnect_0_router_001_sv_unit
+S1
+R0
+R3
+Z48 8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router_001.sv
+Z49 Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router_001.sv
+R44
+R5
+r1
+!s85 0
+31
+R38
+Z50 !s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router_001.sv|
+Z51 !s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router_001.sv|
+!i113 1
+R17
+R18
+R9
+vunsaved_mm_interconnect_0_router_001_default_decode
+R10
+R37
+!i10b 1
+!s100 2]Lm@:@ceDEoVFW2Y:?m]1
+IMl<k2cO4@CiK[KRG_VoXa3
+R2
+R47
+S1
+R0
+R3
+R48
+R49
+Z52 L0 45
+R5
+r1
+!s85 0
+31
+R38
+R50
+R51
+!i113 1
+R17
+R18
+R9
+vunsaved_mm_interconnect_0_router_002
+R10
+R37
+!i10b 1
+!s100 ]cWLXMg`6:`LKaOV9ia8`1
+IUzdUYc?aHWWzQIQL_kkml3
+R2
+Z53 !s105 unsaved_mm_interconnect_0_router_002_sv_unit
+S1
+R0
+R3
+Z54 8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router_002.sv
+Z55 Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router_002.sv
+R44
+R5
+r1
+!s85 0
+31
+R38
+Z56 !s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router_002.sv|
+Z57 !s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router_002.sv|
+!i113 1
+R17
+R18
+R9
+vunsaved_mm_interconnect_0_router_002_default_decode
+R10
+R37
+!i10b 1
+!s100 5M3:FSM?9gzU1LE1i[8in0
+I7=9C7ZjEn`SiRBidP4eX<1
+R2
+R53
+S1
+R0
+R3
+R54
+R55
+R52
+R5
+r1
+!s85 0
+31
+R38
+R56
+R57
+!i113 1
+R17
+R18
+R9
+vunsaved_mm_interconnect_0_router_003
+R10
+R37
+!i10b 1
+!s100 5a=hAPhP5L:BUZ;7^Yl;j2
+IfEoA8I1W@S2<Af=[hn<B^0
+R2
+Z58 !s105 unsaved_mm_interconnect_0_router_003_sv_unit
+S1
+R0
+R3
+Z59 8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router_003.sv
+Z60 Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router_003.sv
+R44
+R5
+r1
+!s85 0
+31
+R38
+Z61 !s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router_003.sv|
+Z62 !s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router_003.sv|
+!i113 1
+R17
+R18
+R9
+vunsaved_mm_interconnect_0_router_003_default_decode
+R10
+R37
+!i10b 1
+!s100 ^ZQkn`iMmRQ?<Z@U>W9jR1
+I^;Zl:<^`WGUziG0KRkLU>2
+R2
+R58
+S1
+R0
+R3
+R59
+R60
+R52
+R5
+r1
+!s85 0
+31
+R38
+R61
+R62
+!i113 1
+R17
+R18
+R9
+vunsaved_mm_interconnect_0_router_005
+R10
+R29
+!i10b 1
+!s100 Jb_VfFNBWPOA5RWziQ`Yl2
+ISQPBn1RDnL^F;2FVOzY1b3
+R2
+Z63 !s105 unsaved_mm_interconnect_0_router_005_sv_unit
+S1
+R0
+R3
+Z64 8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router_005.sv
+Z65 Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router_005.sv
+R44
+R5
+r1
+!s85 0
+31
+R38
+Z66 !s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router_005.sv|
+Z67 !s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_router_005.sv|
+!i113 1
+R17
+R18
+R9
+vunsaved_mm_interconnect_0_router_005_default_decode
+R10
+R29
+!i10b 1
+!s100 n6NnMLKP`ePhjD=_`bUCW2
+I^lF0XmE``OgB@H>JYcOPe0
+R2
+R63
+S1
+R0
+R3
+R64
+R65
+R52
+R5
+r1
+!s85 0
+31
+R38
+R66
+R67
+!i113 1
+R17
+R18
+R9
+vunsaved_mm_interconnect_0_router_default_decode
+R10
+R37
+!i10b 1
+!s100 `ZW3Y@:VL`^lclcdR5All2
+IJ@]ccQE4E@82OiKH6I7ZW2
+R2
+R41
+S1
+R0
+R3
+R42
+R43
+R52
+R5
+r1
+!s85 0
+31
+R38
+R45
+R46
+!i113 1
+R17
+R18
+R9
+vunsaved_mm_interconnect_0_rsp_demux
+R10
+R29
+!i10b 1
+!s100 H>dlJLmbnbTml>S@cA2VZ0
+IbbG`QOllHaN`ln83IROWM2
+R2
+!s105 unsaved_mm_interconnect_0_rsp_demux_sv_unit
+S1
+R0
+R12
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_rsp_demux.sv
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_rsp_demux.sv
+R39
+R5
+r1
+!s85 0
+31
+R30
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_rsp_demux.sv|
+!s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_rsp_demux.sv|
+!i113 1
+R17
+R18
+R9
+vunsaved_mm_interconnect_0_rsp_demux_001
+R10
+R29
+!i10b 1
+!s100 jc9AR?licS7YHIDEjFdNl2
+IMUU@T8bO`b4eijo6emTR>3
+R2
+!s105 unsaved_mm_interconnect_0_rsp_demux_001_sv_unit
+S1
+R0
+R12
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_rsp_demux_001.sv
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_rsp_demux_001.sv
+R39
+R5
+r1
+!s85 0
+31
+R30
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_rsp_demux_001.sv|
+!s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_rsp_demux_001.sv|
+!i113 1
+R17
+R18
+R9
+vunsaved_mm_interconnect_0_rsp_mux
+R10
+R29
+!i10b 1
+!s100 6Y<@TIKZOY0Qgj`<L@OlU1
+IJ_UJF:<1aAM1fMAi6RS=g1
+R2
+!s105 unsaved_mm_interconnect_0_rsp_mux_sv_unit
+S1
+R0
+R12
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_rsp_mux.sv
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_rsp_mux.sv
+R40
+R5
+r1
+!s85 0
+31
+R30
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_rsp_mux.sv|
+!s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_rsp_mux.sv|
+!i113 1
+R17
+R18
+R9
+vunsaved_mm_interconnect_0_rsp_mux_001
+R10
+R29
+!i10b 1
+!s100 _^0@WWi;2Dm=KKiMH`E2b0
+I@fKlYQkMW7Y?BZ7bOjkaf0
+R2
+!s105 unsaved_mm_interconnect_0_rsp_mux_001_sv_unit
+S1
+R0
+R12
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_rsp_mux_001.sv
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_rsp_mux_001.sv
+R40
+R5
+r1
+!s85 0
+31
+R30
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_rsp_mux_001.sv|
+!s90 -reportprogress|300|-sv|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_mm_interconnect_0_rsp_mux_001.sv|
+!i113 1
+R17
+R18
+R9
+vunsaved_nios2_gen2_0
+R19
+!i10b 1
+!s100 ZmW:_H?oEfWzPT>@IR1PX3
+I]FdJ9:Uf`:`zCBeAL4^6M2
+R2
+R0
+w1667095825
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0.v
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+R21
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0.v|
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu
+R35
+!i10b 1
+!s100 `:3gmg<W_@5Vc]2B:LE2L2
+IU0^IP?H?k2:Xa_06QYAcE0
+R2
+R0
+R3
+Z68 8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu.v
+Z69 Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu.v
+L0 3439
+R5
+r1
+!s85 0
+31
+R21
+Z70 !s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu.v|
+Z71 !s90 -reportprogress|300|-vlog01compat|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu.v|
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_bht_module
+R19
+!i10b 1
+!s100 9dMA7=ej2N3Wd>DCG69OA0
+IhNDGSh3cPL9FFcS4oSK6=1
+R2
+R0
+R3
+R68
+R69
+L0 158
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_dc_data_module
+R19
+!i10b 1
+!s100 ij4G[Jd[a17W@he<ZVRhi1
+IjcGH]H`]aXi:aO<NN5]i71
+R2
+R0
+R3
+R68
+R69
+L0 425
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_dc_tag_module
+R19
+!i10b 1
+!s100 aFNc2@EiHM?9ecUl_>3bP2
+IbMS7:?_GeiIM3dbZzM?1k2
+R2
+R0
+R3
+R68
+R69
+L0 359
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_dc_victim_module
+R19
+!i10b 1
+!s100 Lh]lhGYdLlG2R2:dRb0Bh1
+IL?8HAN_RU3ZNZ7@mOP6hK0
+R2
+R0
+R3
+R68
+R69
+L0 494
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_debug_slave_sysclk
+R35
+!i10b 1
+!s100 U8jlWcio=9adEzkj]2VTG3
+I`Mn=3gS1?L5]BjgU^?QUl3
+R2
+R0
+R3
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_sysclk.v
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_sysclk.v
+R4
+R5
+r1
+!s85 0
+31
+R36
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_sysclk.v|
+!s90 -reportprogress|300|-vlog01compat|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_sysclk.v|
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_debug_slave_tck
+R35
+!i10b 1
+!s100 ]R<Q7lhc6UJIUP9IZ_[;`0
+Ii0GJgRj5_6WBQ?4GL889o0
+R2
+R0
+R3
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_tck.v
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_tck.v
+R4
+R5
+r1
+!s85 0
+31
+R36
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_tck.v|
+!s90 -reportprogress|300|-vlog01compat|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_tck.v|
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_debug_slave_wrapper
+R35
+!i10b 1
+!s100 6Hf9[8of<WkFVzh9NL4>M3
+IhmoNjGE7hibK9Ylmez<oU0
+R2
+R0
+R3
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_wrapper.v
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_wrapper.v
+R4
+R5
+r1
+!s85 0
+31
+R36
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_wrapper.v|
+!s90 -reportprogress|300|-vlog01compat|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_debug_slave_wrapper.v|
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_ic_data_module
+R19
+!i10b 1
+!s100 TgdMzd:bZc2?mPUE:759<3
+IPZDZJ<OUXd9AMeOGIfg6P0
+R2
+R0
+R3
+R68
+R69
+R4
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_ic_tag_module
+R19
+!i10b 1
+!s100 DZlk?cKTEL_hVc6Q;8Y7n1
+I7c<i_JS_3EVNPjB4FZR_>0
+R2
+R0
+R3
+R68
+R69
+L0 89
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_mult_cell
+R35
+!i10b 1
+!s100 GVeXI9MQ<KocbCX5LIR9d0
+IBd==i_Zo=44KlFMK4Zl3U3
+R2
+R0
+R3
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_mult_cell.v
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_mult_cell.v
+R4
+R5
+r1
+!s85 0
+31
+R36
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_mult_cell.v|
+!s90 -reportprogress|300|-vlog01compat|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_mult_cell.v|
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_nios2_avalon_reg
+R19
+!i10b 1
+!s100 CIU5:4UO^]^`8hQ^d4Z]Q3
+I2Ez3jF;:;3=TgbT>WbG^z2
+R2
+R0
+R3
+R68
+R69
+L0 2555
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_nios2_oci
+R19
+!i10b 1
+!s100 SB?gaPJHGD]204JJkzRKd2
+IkKLEPYS4lmnL@f[3KF7zc3
+R2
+R0
+R3
+R68
+R69
+L0 2894
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_nios2_oci_break
+R19
+!i10b 1
+!s100 @T_7ZYSdW]I:MeneBShT71
+IRlZ]5:XHPn5GI@A5oQ7PE2
+R2
+R0
+R3
+R68
+R69
+L0 721
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_nios2_oci_compute_input_tm_cnt
+R19
+!i10b 1
+!s100 nFTh>>@9^Oja2]l<H3IZF1
+Ij[:?KT[SRDR2zA;H@AOk^3
+R2
+R0
+R3
+R68
+R69
+L0 1797
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_nios2_oci_dbrk
+R19
+!i10b 1
+!s100 C0fkh@T0VF5oIlZJlgh1_3
+IBK:^D4oJJUgWzV]c]?d`Y3
+R2
+R0
+R3
+R68
+R69
+L0 1275
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_nios2_oci_debug
+R19
+!i10b 1
+!s100 MLMceKEai87`4E9YOM7hL0
+IKo`Qzi3k[5OWA2XbJA14c2
+R2
+R0
+R3
+R68
+R69
+L0 562
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_nios2_oci_dtrace
+R19
+!i10b 1
+!s100 ^0blF2Ok=WK1XOgb_EUC10
+I[@Q[CCk1l478OfPBOAFR<1
+R2
+R0
+R3
+R68
+R69
+L0 1715
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_nios2_oci_fifo
+R19
+!i10b 1
+!s100 jnciUT9ceUD`=7hM`9iUi0
+I2Vm0I=>N[[47b:Dmn:[]T1
+R2
+R0
+R3
+R68
+R69
+L0 1959
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_nios2_oci_fifo_cnt_inc
+R19
+!i10b 1
+!s100 >U;b[fT@Cc:_N6N?Z4^V;1
+IknLme9caFYYJEaco0@ekK0
+R2
+R0
+R3
+R68
+R69
+L0 1912
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_nios2_oci_fifo_wrptr_inc
+R19
+!i10b 1
+!s100 ]5:N]nVPAdZOE8]_FN>1n3
+IoO@8I>DaL^bCaan[SVNg12
+R2
+R0
+R3
+R68
+R69
+L0 1869
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_nios2_oci_im
+R19
+!i10b 1
+!s100 5[ME7MiP07EjaM=SDS=a<3
+ILLDo[5bfdl0igNVHl=GP61
+R2
+R0
+R3
+R68
+R69
+L0 2468
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_nios2_oci_itrace
+R19
+!i10b 1
+!s100 ?zz1XYg[>40EPKn>BAZU^0
+ISl@hNT=FbNQ9:[if57WJ]0
+R2
+R0
+R3
+R68
+R69
+L0 1464
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_nios2_oci_pib
+R19
+!i10b 1
+!s100 CCkA9O2Hg<^8aaZYVOGVU0
+IJke`G6Z@^8S8jXeEAQ6Qe2
+R2
+R0
+R3
+R68
+R69
+L0 2445
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_nios2_oci_td_mode
+R19
+!i10b 1
+!s100 [2^>heI`K``P^FP22EAQ;0
+I<aFL_5LIZ<R9K@7NLdGQ;1
+R2
+R0
+R3
+R68
+R69
+L0 1647
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_nios2_oci_xbrk
+R19
+!i10b 1
+!s100 hZ45fX:;aQ7ZzD]=>^HVb0
+IG8j^N@2Q7?I@71G0Qe:_<3
+R2
+R0
+R3
+R68
+R69
+L0 1014
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_nios2_ocimem
+R19
+!i10b 1
+!s100 oM511N>c^R^U@HRl;gi<Y0
+IzQYaciDb@XBWae;beJF^U1
+R2
+R0
+R3
+R68
+R69
+L0 2713
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_nios2_performance_monitors
+R19
+!i10b 1
+!s100 ]oU9hg4FXRXZmSn`YXC;V1
+ILhP?LLiCL<hMV7bnRX<0N0
+R2
+R0
+R3
+R68
+R69
+L0 2538
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_ociram_sp_ram_module
+R19
+!i10b 1
+!s100 82g4Hnme@>3i1J1QjcU9J2
+IBPRWi=aAC;@:ZM>7Gc<n90
+R2
+R0
+R3
+R68
+R69
+L0 2648
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_register_bank_a_module
+R19
+!i10b 1
+!s100 Rg]c;>>^EO7b9S3ag5?@H1
+I@=Rl0G>Bm:7Sdgaz^;kS60
+R2
+R0
+R3
+R68
+R69
+L0 227
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_register_bank_b_module
+R19
+!i10b 1
+!s100 6W@kYzf;PTG<hE0R0mzYg2
+IT==neED8B5QH8>oTCh=gK2
+R2
+R0
+R3
+R68
+R69
+L0 293
+R5
+r1
+!s85 0
+31
+R21
+R70
+R71
+!i113 1
+R7
+R8
+R9
+vunsaved_nios2_gen2_0_cpu_test_bench
+R35
+!i10b 1
+!s100 :K7>^j6`TF=FzgW?82P8N3
+IGf6TePOLhFn;h`jzcKMb:2
+R2
+R0
+R3
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_test_bench.v
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_test_bench.v
+R4
+R5
+r1
+!s85 0
+31
+R36
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_test_bench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_nios2_gen2_0_cpu_test_bench.v|
+!i113 1
+R7
+R8
+R9
+vunsaved_RAM
+R19
+!i10b 1
+!s100 9P]:KoMfIVjW0Wj:6J>fL3
+IFPN30g1nnEBiN9OJ2nG692
+R2
+R0
+R22
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_ram.v
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_ram.v
+R4
+R5
+r1
+!s85 0
+31
+R21
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_ram.v|
+!s90 -reportprogress|300|-vlog01compat|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_ram.v|
+!i113 1
+R7
+R8
+R9
+nunsaved_@r@a@m
+vunsaved_ROM
+R19
+!i10b 1
+!s100 LjP<jW?iVDFX:V^_^7E5;1
+IQzCkZWfd:0G1WU[HZP1IH2
+R2
+R0
+R22
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_rom.v
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_rom.v
+R4
+R5
+r1
+!s85 0
+31
+R21
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_rom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|unsaved|+incdir+d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/unsaved_rom.v|
+!i113 1
+R7
+R8
+R9
+nunsaved_@r@o@m
+Euserhw_nios
+w1667096170
+DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R24
+R25
+R0
+8d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/userhw_nios.vhd
+Fd:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/userhw_nios.vhd
+l0
+L8
+Vz1o@^b[oNVK]CVcYY5;7j2
+!s100 <Fd31Uf9GbX8^gjXaEEAX1
+R28
+31
+!s110 1667096171
+!i10b 1
+!s108 1667096171.000000
+!s90 -reportprogress|300|-93|-work|unsaved|d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/userhw_nios.vhd|
+!s107 d:/docs/universidade/logicareconfiguravel/logicareconfiguravel/lab04/proj_quartus/userhw_nios/db/ip/unsaved/submodules/userhw_nios.vhd|
+!i113 1
+R33
+R34

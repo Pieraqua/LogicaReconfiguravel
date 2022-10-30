@@ -1,0 +1,106 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/software/USERHW_NIOS_APP/obj/default/runtime/sim/mentor
+valtera_merlin_arb_adder
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1667098577
+!i10b 1
+!s100 1Jn[a;@5nZmTN?DFKQNzj2
+I519Uh:9_[@JUO[hQTSP]R2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 altera_merlin_arbitrator_sv_unit
+S1
+R0
+Z5 w1667097938
+Z6 8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_merlin_arbitrator.sv
+Z7 FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_merlin_arbitrator.sv
+L0 228
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1667098577.000000
+Z10 !s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_merlin_arbitrator.sv|
+Z11 !s90 -reportprogress|300|-sv|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_merlin_arbitrator.sv|-work|cmd_mux|
+!i113 1
+Z12 o-sv -work cmd_mux
+Z13 tCvgOpt 0
+valtera_merlin_arbitrator
+R1
+R2
+!i10b 1
+!s100 NQTehjm2fNQROUMUzShGa1
+IV@;oBGcC@j`GAZ9UT9[zH1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 103
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vunsaved_mm_interconnect_0_cmd_mux
+R1
+R2
+!i10b 1
+!s100 :YdCkTgCIBCncSSg^8=G;0
+IN<oe>7cHN7gS:1nF>hAC^2
+R3
+!s105 unsaved_mm_interconnect_0_cmd_mux_sv_unit
+S1
+R0
+R5
+8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_mm_interconnect_0_cmd_mux.sv
+FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_mm_interconnect_0_cmd_mux.sv
+Z14 L0 51
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_mm_interconnect_0_cmd_mux.sv|
+!s90 -reportprogress|300|-sv|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_mm_interconnect_0_cmd_mux.sv|-work|cmd_mux|
+!i113 1
+R12
+R13
+vunsaved_mm_interconnect_1_cmd_mux
+R1
+!s110 1667096863
+!i10b 1
+!s100 ki6i9ikJ`jZTXb32kY_z_2
+Il?imXY8ELkW9Fz9Xndkl70
+R3
+!s105 unsaved_mm_interconnect_1_cmd_mux_sv_unit
+S1
+R0
+w1667096779
+8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_mm_interconnect_1_cmd_mux.sv
+FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_mm_interconnect_1_cmd_mux.sv
+R14
+R8
+r1
+!s85 0
+31
+!s108 1667096863.000000
+!s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_mm_interconnect_1_cmd_mux.sv|
+!s90 -reportprogress|300|-sv|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_mm_interconnect_1_cmd_mux.sv|-work|cmd_mux|
+!i113 1
+R12
+R13

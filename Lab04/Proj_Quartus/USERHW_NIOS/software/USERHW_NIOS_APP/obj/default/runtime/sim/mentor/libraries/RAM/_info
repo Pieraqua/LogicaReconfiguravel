@@ -1,0 +1,59 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/software/USERHW_NIOS_APP/obj/default/runtime/sim/mentor
+Eunsaved_ram
+Z1 w1667097931
+Z2 DPx9 altera_mf 20 altera_mf_components 0 22 ^:alB2MJEEXl;OOBQIDHY2
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z5 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z8 DPx6 altera 25 altera_europa_support_lib 0 22 5o:bO7N_EO8==El25L[7@1
+R0
+Z9 8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_RAM.vhd
+Z10 FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_RAM.vhd
+l0
+L29
+VH>cKBaGij47fi3C[>KFSc2
+!s100 =kFbYm:jPm_8F^LL?nYzh0
+Z11 OV;C;10.5b;63
+32
+Z12 !s110 1667098583
+!i10b 1
+Z13 !s108 1667098583.000000
+Z14 !s90 -reportprogress|300|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_RAM.vhd|-work|RAM|
+Z15 !s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/unsaved_RAM.vhd|
+!i113 1
+Z16 o-work RAM
+Z17 tExplicit 1 CvgOpt 0
+Aeuropa
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+Z18 DEx4 work 11 unsaved_ram 0 22 H>cKBaGij47fi3C[>KFSc2
+l83
+L52
+VnG:11V;mega25m^foMik?3
+!s100 B_;gHO9f_IU26NKamLXzQ3
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 1
+R16
+R17

@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/software/USERHW_NIOS_APP/obj/default/runtime/sim/mentor
+valtera_avalon_sc_fifo
+!s110 1667098580
+!i10b 1
+!s100 4mK@em][G=j]om3zJIhOc0
+Iz?5aDb>D7BD`TKM2PR4Y52
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1667097938
+8D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_avalon_sc_fifo.v
+FD:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_avalon_sc_fifo.v
+L0 21
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1667098580.000000
+!s107 D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|D:/Docs/Universidade/LogicaReconfiguravel/LogicaReconfiguravel/Lab04/Proj_Quartus/USERHW_NIOS/unsaved/simulation/submodules/altera_avalon_sc_fifo.v|-work|USERHW_NIOS_0_avalon_slave_0_agent_rsp_fifo|
+!i113 1
+o-work USERHW_NIOS_0_avalon_slave_0_agent_rsp_fifo
+tCvgOpt 0
